@@ -12,7 +12,7 @@
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
+              src="https://framateam.org/files/gadct6ux6ff6zfe8o4g6d41t5r/public?h=fYji0u4sGd_orPciXjZNH0E45n2MIAph1324gZN0JJA"
               alt="logo cyclopolis"
             >
           </NuxtLink>
