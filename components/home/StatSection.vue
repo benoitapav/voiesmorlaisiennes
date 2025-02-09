@@ -6,7 +6,7 @@
           Les {{ getRevName() }}, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          C'est le nom donné au projet de réseau cyclable porté par la Métropole de Lyon.<br>Concrètement, une {{ getRevName('singular') }} est une voie cyclable large (3 à 4m), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers lyonnais aux communes de la périphérie de la métropole.
+          C'est le nom donné au projet de réseau cyclable idéal proposé par A Pied A Vélo en pays de Morlaix.<br>Concrètement, une {{ getRevName('singular') }} est un itinéraire reliant plusieurs points d'intérêt dans le pays de Morlaix, essentiellement depuis la ville centre. Il n'y a le plus souvent pas d'aménagement et c'est tout l'enjeu de ce réseau rêvé, qui propose un maillage cyclable sans discontinuités connectant la ville de Morlaix aux autres communes de l'agglomération et les communes entre elles.
         </p>
       </div>
     </div>
