@@ -1,10 +1,10 @@
 {
   "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise"
+    "plural": "Voies Morlaisiennes",
+    "singular": "Voie Morlaisienne"
   },
-  "assoName": "La Ville à Vélo",
-  "assoLink": "https://lavilleavelo.org",
+  "assoName": "A Pied A Vélo en pays de Morlaix",
+  "assoLink": "https://apiedavelo.bzh",
   "slug": "voie-lyonnaise",
   "center": [
     4.8312188,

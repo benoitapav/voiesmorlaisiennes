@@ -7,12 +7,12 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
               :alt="`logo ${getAssoName()}`"
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
+              src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
               alt="logo cyclopolis"
             >
           </NuxtLink>

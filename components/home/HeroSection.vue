@@ -35,18 +35,18 @@
             <h1>
               <span
                 class="block text-sm font-semibold uppercase tracking-wide text-gray-500 sm:text-base lg:text-sm xl:text-base"
-              >Plateforme de suivi</span>
+              >Un rêve...</span>
               <span
                 class="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl"
               >
-                <span class="block text-gray-900">Avancement des</span>
+                <span class="block text-gray-900">Réseau vélo idéal</span>
                 <span class="block text-lvv-blue-600">{{ getRevName() }}</span>
               </span>
             </h1>
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Une initiative de l'association <strong>{{ assoName }}</strong> pour suivre le développement du nouveau réseau vélo sécurisé Lyonnais.
+              Une initiative de l'association <strong>{{ assoName }}</strong> pour proposer un réseau continu, complet et sécurisé dans le pays de Morlaix.
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
