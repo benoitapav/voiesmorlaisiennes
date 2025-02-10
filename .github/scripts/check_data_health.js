@@ -119,6 +119,7 @@ function checkGeoJsonDataHealth({ links }) {
               const validTypes = [
                 'bidirectionnelle',
                 'bilaterale',
+                'chaucidou',
                 'voie-bus',
                 'voie-bus-elargie',
                 'velorue',

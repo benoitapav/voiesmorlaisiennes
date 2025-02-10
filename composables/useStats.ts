@@ -166,16 +166,17 @@ export const useStats = () => {
   }
 
   const typologyNames: Record<LaneType, string> = {
-    bidirectionnelle: 'Piste bidirectionnelle',
-    bilaterale: 'Piste bilatérale',
+    'bidirectionnelle': 'Piste bidirectionnelle',
+    'bilaterale': 'Piste bilatérale',
     'voie-bus': 'Voie bus',
     'voie-bus-elargie': 'Voie bus élargie',
-    velorue: 'Vélorue',
+    'chaucidou': 'Chaussée à Voie Centrale Banalisée',
+    'velorue': 'Vélorue',
     'voie-verte': 'Voie verte',
     'bandes-cyclables': 'Bandes cyclables',
     'zone-de-rencontre': 'Zone de rencontre',
-    aucun: 'Aucun',
-    inconnu: 'Inconnu'
+    'aucun': 'Aucun',
+    'inconnu': 'Inconnu'
   };
 
   const qualityNames: Record<LaneQuality, string> = {
