@@ -6,7 +6,7 @@
     <img
       v-if="options.logo"
       class="my-0 absolute bottom-0 right-0 z-10"
-      src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png"
+      src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
       width="75"
       height="75"
       :alt="`logo ${config.assoName}`"
@@ -58,7 +58,7 @@ const {
 } = useMap();
 
 const statuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip', 'tested']);
-const types = ref(['bidirectionnelle', 'bilaterale', 'voie-bus', 'voie-bus-elargie', 'velorue', 'voie-verte', 'bandes-cyclables', 'zone-de-rencontre', 'aucun', 'inconnu']);
+const types = ref(['bidirectionnelle', 'bilaterale', 'chaucidou', 'velorue', 'voie-verte', 'bandes-cyclables', 'zone-de-rencontre', 'aucun', 'inconnu']);
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
     if (isLineStringFeature(feature)) {

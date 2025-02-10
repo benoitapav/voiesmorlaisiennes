@@ -1,6 +1,6 @@
 ## LICENCE MIT
 
-Copyright (c) 2024 La Ville à Vélo
+Copyright (c) 2025 A Pied A Vélo en pays de Morlaix, sur aimable autorisation de La Ville à Vélo (Lyon)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -75,7 +75,7 @@ defineExpose({
 const statusFilters = ref([
   { label: 'Terminé', isEnable: true, statuses: ['done'] },
   { label: 'En travaux', isEnable: true, statuses: ['wip', 'tested'] },
-  { label: 'Prévu pour 2026', isEnable: true, statuses: ['planned', 'variante'] },
+  { label: 'Prévu', isEnable: true, statuses: ['planned', 'variante'] },
   { label: 'Reporté', isEnable: true, statuses: ['postponed', 'variante-postponed'] },
   { label: 'Inconnu', isEnable: true, statuses: ['unknown'] }
 ]);
@@ -83,7 +83,7 @@ const statusFilters = ref([
 const typeFilters = ref([
   { label: 'Bidirectionnelle', isEnable: true, types: ['bidirectionnelle'] },
   { label: 'Bilaterale', isEnable: true, types: ['bilaterale'] },
-  { label: 'Voie Bus', isEnable: true, types: ['voie-bus', 'voie-bus-elargie'] },
+  { label: 'Chaucidou', isEnable: true, types: ['chaucidou'] },
   { label: 'Voie verte', isEnable: true, types: ['voie-verte'] },
   { label: 'Vélorue', isEnable: true, types: ['velorue'] },
   { label: 'Bandes cyclables', isEnable: true, types: ['bandes-cyclables'] },
