@@ -62,7 +62,7 @@ POINTS D’INTÉRÊT : Manufacture (SEW, cinéma La Salamandre, espace des Scien
 Cette section est en travaux, réalisation Morlaix Communauté. L'Apav a été consultée en juillet 2024 puis janvier 2025 pour les aménagements.
 
 #### Morlaix Places Charles de Gaulle - Cornic - Otages
-Cette section est en tronçon commun avec plusieurs autres lignes, entre autres la :line-link{line=2 anchor="boulevard-stalingrad-nord"}.
+Cette section est en tronçon commun avec plusieurs autres lignes, entre autres la :line-link{line=2}.
 
 #### Morlaix Rue de Brest
 Cette section présente la première Chaussée à Voie Centrale Banalisée de Morlaix, réalisée en 2018 (à vérifier APAV) grâce à l'intervention de l'Apav qui a fait une proposition "de fin d'avant-projet" pour éviter qu'il n'y ait rien de prévu pour les cycles. Mise en chaucidou, vitesse limitée à 30 km/h.
