@@ -137,7 +137,7 @@ export const useStats = () => {
         class: 'text-lvv-blue-600 font-normal'
       },
       planned: {
-        name: 'Prévus',
+        name: 'Souhaités',
         distance: plannedDistance,
         percent: getPercent(plannedDistance),
         class: 'text-black font-semibold'
