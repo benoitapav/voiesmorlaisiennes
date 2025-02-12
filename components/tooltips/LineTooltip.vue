@@ -117,7 +117,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
       class: 'text-lvv-blue-600 rounded-xl px-2 border border-dashed border-lvv-blue-600'
     },
     planned: {
-      label: 'prévu',
+      label: 'souhaité',
       class: 'text-lvv-blue-600 rounded-xl px-2 border border-lvv-blue-600'
     },
     tested: {

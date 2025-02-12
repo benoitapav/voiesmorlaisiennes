@@ -35,11 +35,14 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [            -3.912982320702781,            48.66586071609919          ],
-          [            -3.913737963498363,            48.666785695686514          ],
-          [            -3.9140734425505457,            48.66726968977113          ],
-          [            -3.9141027562540955,            48.66736863910049          ],
-          [            -3.9139333881889797,            48.66754502655351          ]
+          [            -3.912981564376878,            48.66586010632702          ],
+          [            -3.9122038955339633,            48.66492021182941          ],
+          [            -3.9119865311942306,            48.66445831402899          ],
+          [            -3.9118920248673987,            48.6640754799449          ],
+          [            -3.911866823180276,            48.663825803975755          ],
+          [            -3.9118605227584737,            48.6635969332504          ],
+          [            -3.911895175078314,            48.66338470674043          ],
+          [            -3.9119014755000876,            48.6631412693487          ]
         ]
       }
     },
@@ -48,7 +51,7 @@
       "properties": {
         "line": 1,
         "name": "Carantec-Français Libres",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -70,7 +73,7 @@
       "properties": {
         "line": 1,
         "name": "Carantec-Kerdanet",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -88,7 +91,7 @@
       "properties": {
         "line": 1,
         "name": "Carantec-Ty Nod",
-        "status": "unknown",
+        "status": "planned",
         "type": "velorue",
         "link": "/voie-morlaisienne-1",
         "quality":"satisfactory"
@@ -130,7 +133,7 @@
       "properties": {
         "line": 1,
         "name": "Carantec-D73",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -153,7 +156,7 @@
       "properties": {
         "line": 1,
         "name": "Taulé-D73-Route de la corniche",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -187,7 +190,7 @@
       "properties": {
         "line": 1,
         "name": "Locquénolé-Route de Montmarin",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -218,7 +221,7 @@
       "properties": {
         "line": 1,
         "name": "Locquénolé-Route de la corniche",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -310,7 +313,7 @@
       "properties": {
         "line": 1,
         "name": "St Martin des Champs-Allée de St François/RD73-Place Puyo",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -380,7 +383,7 @@
         "line": 1,
         "id": "MorlaixDeGaulle-commun",
         "name": "Morlaix Places De Gaulle - Cornic - Otages",
-        "status": "unknown",
+        "status": "planned",
         "type": "bandes-cyclables",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -401,7 +404,7 @@
         "line": 1,
         "id": "MorlaixOtagesOuest-commun",
         "name": "Morlaix Place des Otages ouest",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -412,7 +415,7 @@
           [            -3.8287073279045103,            48.5777162709924          ],
           [            -3.8287073279045103,            48.57754727737341          ],
           [            -3.8284250106341915,            48.57723152462364          ],
-          [            -3.828035143927565,            48.576960242517          ]
+          [            -3.828041865767318,            48.57695134799707          ]
         ]
       }
     },
@@ -422,7 +425,7 @@
         "line": 1,
         "id": "MorlaixRueBrestNord-commun",
         "name": "Morlaix Rue de Brest Nord",
-        "status": "unknown",
+        "status": "done",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -462,7 +465,7 @@
         "line": 1,
         "id": "MorlaixRueBrestSud-commun",
         "name": "Morlaix Rue de Brest Sud",
-        "status": "unknown",
+        "status": "done",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -546,7 +549,7 @@
       "properties": {
         "line": 1,
         "name": "St Martin des Champs Route de Carhaix Nord",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -594,7 +597,7 @@
       "properties": {
         "line": 1,
         "name": "St Martin des Champs Route de Carhaix Sud",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -662,7 +665,7 @@
       "properties": {
         "line": 1,
         "name": "Pleyber Christ C4 Route de Lesquiffiou",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -782,7 +785,7 @@
       "properties": {
         "line": 1,
         "name": "Pleyber Christ Route des 4 saisons",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -838,7 +841,7 @@
       "properties": {
         "line": 1,
         "name": "Pleyber Christ Rues Brassens/Feunteun - places de l'Eglise et Gambetta",
-        "status": "unknown",
+        "status": "planned",
         "type": "aucun",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -889,6 +892,258 @@
           [
             -3.8752239319334763,
             48.505016709282046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "name": "Liaison Pleyber Christ Plourin les Morlaix",
+        "status": "planned",
+        "type": "aucun",
+        "link": "/voie-morlaisienne-1",
+        "quality":"unsatisfactory"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.789897,
+            48.535062
+          ],
+          [
+            -3.789908,
+            48.534913
+          ],
+          [
+            -3.790219,
+            48.534927
+          ],
+          [
+            -3.79082,
+            48.535041
+          ],
+          [
+            -3.791463,
+            48.535112
+          ],
+          [
+            -3.794864,
+            48.535084
+          ],
+          [
+            -3.795766,
+            48.534991
+          ],
+          [
+            -3.796592,
+            48.534963
+          ],
+          [
+            -3.800122,
+            48.534444
+          ],
+          [
+            -3.80187,
+            48.534444
+          ],
+          [
+            -3.802772,
+            48.534316
+          ],
+          [
+            -3.803759,
+            48.534039
+          ],
+          [
+            -3.805057,
+            48.533854
+          ],
+          [
+            -3.807964,
+            48.533833
+          ],
+          [
+            -3.808458,
+            48.533776
+          ],
+          [
+            -3.811612,
+            48.532895
+          ],
+          [
+            -3.812546,
+            48.532504
+          ],
+          [
+            -3.813189,
+            48.531935
+          ],
+          [
+            -3.813576,
+            48.531487
+          ],
+          [
+            -3.813801,
+            48.530862
+          ],
+          [
+            -3.814015,
+            48.529788
+          ],
+          [
+            -3.814262,
+            48.529305
+          ],
+          [
+            -3.814616,
+            48.528815
+          ],
+          [
+            -3.815657,
+            48.527891
+          ],
+          [
+            -3.818039,
+            48.526711
+          ],
+          [
+            -3.818446,
+            48.526426
+          ],
+          [
+            -3.820356,
+            48.524585
+          ],
+          [
+            -3.821257,
+            48.523498
+          ],
+          [
+            -3.82218,
+            48.522886
+          ],
+          [
+            -3.822974,
+            48.522595
+          ],
+          [
+            -3.824487,
+            48.522239
+          ],
+          [
+            -3.825206,
+            48.52214
+          ],
+          [
+            -3.829089,
+            48.522346
+          ],
+          [
+            -3.829637,
+            48.522296
+          ],
+          [
+            -3.832211,
+            48.521962
+          ],
+          [
+            -3.832866,
+            48.521983
+          ],
+          [
+            -3.833435,
+            48.522104
+          ],
+          [
+            -3.833917,
+            48.522268
+          ],
+          [
+            -3.834379,
+            48.52251
+          ],
+          [
+            -3.834819,
+            48.52295
+          ],
+          [
+            -3.835044,
+            48.523341
+          ],
+          [
+            -3.835258,
+            48.524237
+          ],
+          [
+            -3.835419,
+            48.524486
+          ],
+          [
+            -3.836653,
+            48.525502
+          ],
+          [
+            -3.83731,
+            48.525713
+          ],
+          [
+            -3.837752,
+            48.525803
+          ],
+          [
+            -3.838413,
+            48.52605
+          ],
+          [
+            -3.839185,
+            48.526164
+          ],
+          [
+            -3.84147,
+            48.526363
+          ],
+          [
+            -3.842082,
+            48.526413
+          ],
+          [
+            -3.842726,
+            48.52637
+          ],
+          [
+            -3.843713,
+            48.526206
+          ],
+          [
+            -3.844378,
+            48.526235
+          ],
+          [
+            -3.84499,
+            48.526398
+          ],
+          [
+            -3.845955,
+            48.52686
+          ],
+          [
+            -3.846931,
+            48.527223
+          ],
+          [
+            -3.850676,
+            48.52841
+          ],
+          [
+            -3.851309,
+            48.528588
+          ],
+          [
+            -3.851641,
+            48.528744
           ]
         ]
       }
