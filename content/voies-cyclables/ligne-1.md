@@ -9,7 +9,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
-POINTS D’INTÉRÊT = Maison Penanault, Commissariat, Manu, Écluses, Maison de retraite St François, Théâtre, Bas Hôpital, Mosquée
+POINTS D’INTÉRÊT = Maison Penanault, Commissariat de Morlaix, Manu, Écluses, Maison de retraite St François, Théâtre, Bas Hôpital, Mosquée
 
 ### Carantec à Locquénolé
 
