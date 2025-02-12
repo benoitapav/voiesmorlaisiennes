@@ -3,13 +3,13 @@ name: Voie Morlaisienne 1
 line: 1
 from: Carantec
 to: Pleyber-Christ
-description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et Locquénolé à Morlaix d'une part, et d'autre part Morlaix à Pleyber-Christ, en passant par les bords de la rivière / D769 et la "route de Lesquiffiou".\
-POINTS D’INTÉRÊT = Maison Penanault, Commissariat, Manu, Écluses, Maison de retraite St François, Théâtre, Bas Hôpital, Mosquée
-trafic: - vélos/jour
+description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et Locquénolé à Morlaix d'une part, et d'autre part Morlaix à Pleyber-Christ, en passant par les bords de la rivière / D769 et la "route de Lesquiffiou".
+trafic: N/A vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
+POINTS D’INTÉRÊT = Maison Penanault, Commissariat, Manu, Écluses, Maison de retraite St François, Théâtre, Bas Hôpital, Mosquée
 
 ### Carantec à Locquénolé
 
