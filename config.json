@@ -6,12 +6,9 @@
   "assoName": "A Pied A Vélo en pays de Morlaix",
   "assoLink": "https://apiedavelo.bzh",
   "slug": "voie-morlaisienne",
-  "center": [
-    -3.8288503537159215,
-    48.57818086218563
-  ],
-  "zoom": 12,
-  "nbVoiesCyclables": 12,
+  "center": [-3.8288503537159215,48.57818086218563],
+  "zoom": 7,
+  "nbVoiesCyclables": 7,
   "colors": [
     {
       "line": 1,
@@ -40,27 +37,7 @@
     {
       "line": 7,
       "color": "#ba55d3"
-    },
-    {
-      "line": 8,
-      "color": "#7E6D98"
-    },
-    {
-      "line": 9,
-      "color": "#EAAB50"
-    },
-    {
-      "line": 10,
-      "color": "#9A8A4B"
-    },
-    {
-      "line": 11,
-      "color": "#4DADC9"
-    },
-    {
-      "line": 12,
-      "color": "#DBABB7"
-    }
+    }    
   ],
   "transports": [
     {

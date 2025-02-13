@@ -59,7 +59,10 @@ Mêmes remarques. Aménagement possible des bords de la rivière à partir du b�
 POINTS D’INTÉRÊT : Manufacture (SEW, cinéma La Salamandre, espace des Sciences), IUT, Commissariat de police, Maison Penanault, Mairie de Morlaix, Théâtre
 
 #### Morlaix Quai du Léon
+
+::banner{type="wip"}
 Cette section est en travaux, réalisation Morlaix Communauté. L'Apav a été consultée en juillet 2024 puis janvier 2025 pour les aménagements.
+::
 
 #### Morlaix Places Charles de Gaulle - Cornic - Otages
 Cette section est en tronçon commun avec plusieurs autres lignes, entre autres la :line-link{line=2}.
@@ -79,4 +82,3 @@ La route "de Lesquiffiou" (C4) est belle mais beaucoup trop fréquentée par des
 DEPART Route C4 près de Pen Ar Quinquis\
 ARRIVÉE Mairie de Plourin les Morlaix\
 DIFFICULTÉS : Pas d'aménagements, de la déclivité mais peu de trafic motorisé
-

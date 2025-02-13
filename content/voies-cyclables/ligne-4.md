@@ -29,7 +29,7 @@ POINTS D’INTÉRÊT : Ty Dour, école Jean Jaurès, piscine, ZC la Boissière/L
 CONDITIONS :\
 Mise en DSC de la rue de Ploujean + interdiction de la rue de Ploujean aux véhicules motorisés sauf riverains et livraisons (de la Grande Venelle à la Cité des Marronniers).\
 Avantage : éviter l'utilisation de la rue de Ploujean comme raccourci, ce qui amène des survitesses\
-Tronçon entre le tunnel sous Wurselen et la rue Gustave Courbet à améliorer, en particulier l'insertion rue Courbet\
+Tronçon entre le tunnel sous Wurselen et la rue Gustave Courbet à améliorer, en particulier l'insertion rue Courbet
 
 Itinéraire testé APAV le 2 novembre 2024, avec 2 variantes alternatives
 
@@ -39,7 +39,7 @@ Trajet alternatif 1\
 DÉPART Morlaix Skate Park\
 ARRIVÉE Morlaix Rond-point du Leclerc (JM Caradec)\
 POINTS D’INTÉRÊT : Pas de passage par le tunnel sous Wurselen : emprunt de l'avenue Wurselen (accès à sécuriser) + passage par la piscine\
-CONDITIONS : Accès à sécuriser insertion avenue de Wurselen + difficulté sens Garlan/Morlaix pour joindre la piscine, à résoudre\
+CONDITIONS : Accès à sécuriser insertion avenue de Wurselen + difficulté sens Garlan/Morlaix pour joindre la piscine, à résoudre
 
 Itinéraire testé APAV le 2 novembre 2024
 
@@ -49,7 +49,7 @@ Trajet alternatif 2\
 DÉPART Morlaix Rond-point Charles de Gaulle\
 ARRIVÉE Morlaix Rond-point Boissière/Prigent/Wurselen\
 POINTS D’INTÉRÊT : Emprunt des très tranquilles rue de la Boissière et Champ Le Goff\
-CONDITIONS : mise en DSC de la rue Champ Le Goff + sécurisation débouché Le Goff/Plougasnou\
+CONDITIONS : mise en DSC de la rue Champ Le Goff + sécurisation débouché Le Goff/Plougasnou
 
 Itinéraire testé APAV le 2 novembre 2024
 
@@ -74,5 +74,8 @@ Itinéraire direct par la RD712\
 DÉPART Morlaix Mairie\
 ARRIVÉE St Thégonnec-Loc-Eguiner Mairie\
 POINTS D’INTÉRÊT : Théâtre, Bas Hôpital\
-CONDITIONS : aménagement traversée boulevard de Réo\
-DIFFICULTÉS : ATTENTION, passage à pied TRÈS DANGEREUX pour traverser le boulevard de Réo, aménagement impératif
+CONDITIONS : aménagement traversée boulevard de Réo
+
+::banner{type="unsecured"}
+ATTENTION, passage à pied TRÈS DANGEREUX pour traverser le boulevard de Réo, aménagement impératif
+::

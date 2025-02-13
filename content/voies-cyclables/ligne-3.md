@@ -19,7 +19,7 @@ Au 12 février 2024, 7 tronçons (dont 3 variantes) ont été intégrés à la c
 
 DÉPART Plouezoc'h Mairie\
 ARRIVÉE Ploujean place Scornet via Le Dourduff en Mer\
-CONDITIONS : Passage dans les bois, prévoir vélo tout chemin, le long de la rivière du Dourduff - améliorer la piste\
+CONDITIONS : Passage dans les bois, prévoir vélo tout chemin, le long de la rivière du Dourduff - améliorer la piste
 
 Itinéraire testé APAV le 16 juin 2018
 
@@ -36,12 +36,12 @@ POINTS D’INTÉRÊT : Permet d'éviter le passage par EV1 parfois boueux pour r
 DÉPART Ploujean place F. Scornet\
 ARRIVÉE Morlaix Mairie\
 POINTS D’INTÉRÊT : Stade Coatserho, Centre Zoé Puyo, Clinique de la Baie, ZC La Vierge Noire, Ploujean bourg\
-CONDITIONS :\
-Aménagement rue Tristan Corbière en DSC (coude rue Tristan Corbière à protéger)\
-Neutralisation 2 places stationnement au débouché Corbière/Tréguier\
-Amélioration de l'insertion sur piste avenue de Truro
-Variante Langevin/Longuet à aménager légèrement (ressauts)\
-Aménagement du rond-point de la Vierge Noire à la hollandaise\
+CONDITIONS :
+ - aménagement rue Tristan Corbière en DSC (coude rue Tristan Corbière à protéger)
+ - neutralisation 2 places stationnement au débouché Corbière/Tréguier
+ - amélioration de l'insertion sur piste avenue de Truro
+ - variante Langevin/Longuet à aménager légèrement (ressauts)
+ - aménagement du rond-point de la Vierge Noire à la hollandaise
 
 Itinéraire testé APAV le 16 juin 2018 puis le 2 novembre 2024
 
@@ -53,7 +53,7 @@ ARRIVÉE Morlaix rue de Ploujean n°78\
 POINTS D’INTÉRÊT :\
 Arrivée directe au/depuis Stade Coatserho via rue du maréchal Foch avant/après emprunt de la :line-link{line=4}\
 Trajet hors circulation pour habitants quartier Langevin\
-CONDITIONS : Aménagement à améliorer pour insertion sur rond-point Vierge Noire\
+CONDITIONS : Aménagement à améliorer pour insertion sur rond-point Vierge Noire
 
 Itinéraire testé APAV le 2 novembre 2024
 
