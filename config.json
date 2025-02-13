@@ -7,8 +7,8 @@
   "assoLink": "https://apiedavelo.bzh",
   "slug": "voie-morlaisienne",
   "center": [-3.8288503537159215,48.57818086218563],
-  "zoom": 7,
-  "nbVoiesCyclables": 7,
+  "zoom": 12,
+  "nbVoiesCyclables": 12,
   "colors": [
     {
       "line": 1,
