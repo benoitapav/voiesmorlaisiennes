@@ -3,7 +3,7 @@
     <div v-for="item in stats" :key="item.name" class="px-4 py-5 sm:p-6 bg-white">
       <div class="flex justify-between">
         <div class="text-base font-normal text-gray-900">
-          {{ item.name }}<br><small>{{ item.namebzg }}</small>
+          {{ item.name }}
         </div>
         <div class="text-sm" :class="item.class">
           {{ displayPercent(item.percent) }}

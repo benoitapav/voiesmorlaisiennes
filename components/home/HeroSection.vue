@@ -48,11 +48,6 @@
             >
               Une initiative de l'association <strong>{{ assoName }}</strong> pour proposer un réseau <strong>continu</strong>, <strong>complet</strong> et <strong>sécurisé</strong> dans le pays de Morlaix.
             </p>
-            <p
-              class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
-            >
-            <i>Kinnig ar gevredigezh <strong>{{ assoName }}</strong> evit ijinañ ur rouedad war varc’h-houarn <strong>dibaouez</strong>, <strong>klok</strong> hag <strong>suraet</strong> e bro Montroulez.</i>
-            </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
             >

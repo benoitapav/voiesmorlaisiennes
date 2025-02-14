@@ -33,25 +33,7 @@ const links = [
   { name: 'Historique', path: '/historique' }
 ];
 
-const socials = {
- cyclopolis: [
-    {
-      name: 'Twitter',
-      href: 'https://twitter.com/benoit_dmgdt',
-      icon: 'mdi:twitter'
-    },
-    {
-      name: 'Github',
-      href: 'https://github.com/benoitdemaegdt/voieslyonnaises',
-      icon: 'mdi:github'
-    },
-    {
-      name: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/benoitdemaegdt',
-      icon: 'mdi:linkedin'
-    }
-  ],
-  lvv: [
+const socials = [
   {
     name: 'Facebook',
     href: 'https://www.facebook.com/apavmorlaix/',
@@ -72,6 +54,5 @@ const socials = {
     href: 'mailto:contact_at_apiedavelo.bzh',
     icon: 'mdi:email-outline'
   }
-  ]
-};
+  ];
 </script>
