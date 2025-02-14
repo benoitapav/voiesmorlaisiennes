@@ -6,7 +6,7 @@
           <NuxtLink to="/" class="flex space-x-2">
             <span class="sr-only">Cyclopolis</span>
             <img
-              class="h-7 w-auto sm:h-8"
+              class="h-8 w-auto sm:h-12"
               src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
               :alt="`logo ${getAssoName()}`"
             >
@@ -49,7 +49,7 @@
                     >
                       Carte interactive
                     </NuxtLink>
-                    <NuxtLink
+                    <!--<NuxtLink
                       to="/evolution"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
@@ -62,7 +62,7 @@
                       @click="close()"
                     >
                       Plan officiel
-                    </NuxtLink>
+                    </NuxtLink>-->
                     <NuxtLink
                       to="https://barometre.parlons-velo.fr/2021/carte/#11.65/48.6143/-3.8235"
                       target="_blank"
@@ -124,7 +124,7 @@
             </transition>
           </Popover>
 
-          <!-- Compteurs -->
+          <!-- Compteurs 
           <Popover v-slot="{ open }" class="relative">
             <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
               <span>Compteurs</span>
@@ -161,7 +161,7 @@
                       @click="close()"
                     >
                       Comparaison voiture/vélo
-                    </NuxtLink>
+                    </NuxtLink> -->
                   </div>
                 </div>
               </PopoverPanel>
