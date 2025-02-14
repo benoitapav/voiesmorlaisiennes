@@ -161,12 +161,12 @@
                       @click="close()"
                     >
                       Comparaison voiture/vélo
-                    </NuxtLink> -->
+                    </NuxtLink> 
                   </div>
                 </div>
               </PopoverPanel>
             </transition>
-          </Popover>
+          </Popover> -->
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
