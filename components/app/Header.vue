@@ -6,14 +6,14 @@
           <NuxtLink to="/" class="flex space-x-2">
             <span class="sr-only">Cyclopolis</span>
             <img
-              class="h-7 w-auto sm:h-8"
+              class="h-8 w-auto sm:h-12"
               src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
               :alt="`logo ${getAssoName()}`"
             >
             <img
               class="h-8 w-auto sm:h-10"
               src="https://framateam.org/files/gadct6ux6ff6zfe8o4g6d41t5r/public?h=fYji0u4sGd_orPciXjZNH0E45n2MIAph1324gZN0JJA"
-              alt="logo cyclopolis"
+              alt="logo itiVéloMorlaix"
             >
           </NuxtLink>
         </div>
@@ -64,12 +64,12 @@
                       Plan officiel
                     </NuxtLink>
                     <NuxtLink
-                      to="https://barometre.parlons-velo.fr/2021/carte/#11.88/45.74926/4.84739"
+                      to="https://barometre.parlons-velo.fr/2021/carte/#11.65/48.6143/-3.8235"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB Lyon</span>
+                      <span>Baromètre FUB Morlaix</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
@@ -124,7 +124,7 @@
             </transition>
           </Popover>
 
-          <!-- Compteurs -->
+          <!-- Compteurs 
           <Popover v-slot="{ open }" class="relative">
             <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
               <span>Compteurs</span>
@@ -166,7 +166,7 @@
                 </div>
               </PopoverPanel>
             </transition>
-          </Popover>
+          </Popover> -->
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
@@ -200,7 +200,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" :alt="`logo ${getAssoName()}`">
+                <img class="h-8 w-auto" src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
@@ -313,9 +313,9 @@ const { getAssoName } = useConfig();
 
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive', target: '_self' },
-  { name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
-  { name: 'Évolution du réseau', path: '/evolution', target: '_self' },
-  { name: 'Baromètre FUB Lyon', path: 'https://barometre.parlons-velo.fr/2021/carte/#11.88/45.74926/4.84739', target: '_blank' }
+  //{ name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
+  //{ name: 'Évolution du réseau', path: '/evolution', target: '_self' },
+  { name: 'Baromètre FUB Morlaix', path: 'https://barometre.parlons-velo.fr/2021/carte/#11.65/48.6143/-3.8235', target: '_blank' }
   // { name: 'Services', path: '/services' },
 ];
 

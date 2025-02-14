@@ -126,24 +126,28 @@ export const useStats = () => {
     return {
       done: {
         name: 'Réalisés',
+        namebzg: 'Echuet',
         distance: doneDistance,
         percent: getPercent(doneDistance),
         class: 'text-lvv-blue-600 font-semibold'
       },
       wip: {
         name: 'En travaux',
+        namebzg: 'War ar stern',
         distance: wipDistance,
         percent: getPercent(wipDistance),
         class: 'text-lvv-blue-600 font-normal'
       },
       planned: {
         name: 'Souhaités',
+        namebzg: 'Da dizhout',
         distance: plannedDistance,
         percent: getPercent(plannedDistance),
         class: 'text-black font-semibold'
       },
       postponed: {
-        name: 'Reportés',
+        name: 'Prévus',
+        namebzg: 'Raktreset',
         distance: postponedDistance,
         percent: getPercent(postponedDistance),
         class: 'text-lvv-pink font-semibold'

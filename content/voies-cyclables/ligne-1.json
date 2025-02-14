@@ -354,7 +354,7 @@
         "line": 1,
         "id": "MorlaixDeGaulleSO-commun",
         "name": "Morlaix Places De Gaulle - Cornic - Otages Ouest",
-        "status": "planned",
+        "status": "done",
         "type": "chaucidou",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -444,7 +444,7 @@
         "line": 1,
         "id": "AiguillonOtagesCornicN-commun",
         "name": "Morlaix rue d'Aiguillon-place des Otages est",
-        "status": "planned",
+        "status": "done",
         "type": "bandes-cyclables",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"
@@ -470,7 +470,7 @@
         "line": 1,
         "id": "OtagesCornicDeGaulleN-commun",
         "name": "Morlaix places Cornic-De Gaulle est",
-        "status": "planned",
+        "status": "done",
         "type": "chaucidou",
         "link": "/voie-morlaisienne-1",
         "quality":"unsatisfactory"

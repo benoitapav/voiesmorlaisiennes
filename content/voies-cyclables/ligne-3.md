@@ -5,7 +5,7 @@ from: Plouézoc'h
 to: Plougonven
 description: à écrire
 trafic: N/A vélos/jour
-cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)

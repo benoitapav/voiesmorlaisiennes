@@ -18,7 +18,7 @@
             <dl class="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
               <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
                 <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Lignes
+                  Lignes<br><small>Linenn</small>
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
                   {{ getNbVoiesCyclables() }}
@@ -26,18 +26,18 @@
               </div>
               <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
                 <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Distance
+                  Distance<br><small>Hed</small>
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  260km
+                  190km
                 </dd>
               </div>
               <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
                 <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Budget
+                  Budget<br><small>Budjed</small>
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  280M€
+                  inconnu
                 </dd>
               </div>
             </dl>

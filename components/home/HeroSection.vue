@@ -46,7 +46,12 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Une initiative de l'association <strong>{{ assoName }}</strong> pour proposer un réseau continu, complet et sécurisé dans le pays de Morlaix.
+              Une initiative de l'association <strong>{{ assoName }}</strong> pour proposer un réseau <strong>continu</strong>, <strong>complet</strong> et <strong>sécurisé</strong> dans le pays de Morlaix.
+            </p>
+            <p
+              class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
+            >
+            <i>Kinnig ar gevredigezh <strong>{{ assoName }}</strong> evit ijinañ ur rouedad war varc’h-houarn <strong>dibaouez</strong>, <strong>klok</strong> hag <strong>suraet</strong> e bro Montroulez.</i>
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
@@ -55,8 +60,8 @@
                 <NuxtLink to="/carte-interactive" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
                   Carte interactive
                 </NuxtLink>
-                <NuxtLink to="/plan-officiel" class="flex items-center justify-center px-4 py-3 text-base font-medium rounded-md shadow-sm text-lvv-blue-600 border border-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
-                  Plan officiel
+                <NuxtLink to="/blog/methodo" class="flex items-center justify-center px-4 py-3 text-base font-medium rounded-md shadow-sm text-lvv-blue-600 border border-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
+                  Plus d'infos
                 </NuxtLink>
               </div>
             </div>

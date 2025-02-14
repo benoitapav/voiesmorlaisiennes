@@ -5,7 +5,7 @@ from: Plouigneau/Lanleya
 to: Taulé
 description: à écrire
 trafic: N/A vélos/jour
-cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
 ## Les tronçons (d'Est en Ouest)

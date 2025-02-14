@@ -6,10 +6,23 @@
       <div class="space-y-8 sm:space-y-12">
         <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl text-center">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">
-            Où en est le projet ?
+            Pourquoi cette initiative ?
           </h2>
           <p class="text-xl text-gray-500">
-            Après une phase d'étude et de concertation en 2022 et 2023, le projet entre en phase de réalisation.<br> Les travaux devraient se multiplier en 2024 et 2025.
+            <ul class="text-xl text-gray-500">
+              <li>
+               Pour que les cyclistes du pays de Morlaix puissent se déplacer en sécurité sur leurs trajets quotidiens.
+              </li>
+              <li>
+                Pour que les aménagements à venir sur les lignes définies ici prennent en compte le cahier des charges édité par Morlaix Communauté en 2024 pour les aménagements cyclables.
+              </li>
+              <li>
+                Pour que les habitant.e.s du pays de Morlaix qui le souhaitent puissent se déplacer sans voiture et le coût qui lui est associé.
+              </li>
+              <li>
+                Pour donner des idées aux élu.e.s en cours et futurs. 
+              </li>
+            </ul>
           </p>
         </div>
       </div>
