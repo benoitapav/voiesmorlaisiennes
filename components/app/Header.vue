@@ -124,7 +124,7 @@
             </transition>
           </Popover>
 
-          <!-- Compteurs 
+          <!-- Compteurs -->
           <Popover v-slot="{ open }" class="relative">
             <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
               <span>Compteurs</span>
@@ -166,7 +166,7 @@
                 </div>
               </PopoverPanel>
             </transition>
-          </Popover> -->
+          </Popover>
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
@@ -313,8 +313,8 @@ const { getAssoName } = useConfig();
 
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive', target: '_self' },
-  //{ name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
-  //{ name: 'Évolution du réseau', path: '/evolution', target: '_self' },
+  // { name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
+  // { name: 'Évolution du réseau', path: '/evolution', target: '_self' },
   { name: 'Baromètre FUB Morlaix', path: 'https://barometre.parlons-velo.fr/2021/carte/#11.65/48.6143/-3.8235', target: '_blank' }
   // { name: 'Services', path: '/services' },
 ];
