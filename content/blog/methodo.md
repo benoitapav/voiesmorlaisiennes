@@ -1,8 +1,11 @@
 ---
 title: Méthodologie
-description: Ce site a été cloné et adapté du site Cyclopolis de l'association lyonnaise La ville à vélo. Ci-dessous, les réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis. Une page spécifiue sur la méthodologie utilisée par l'Apav sera réalisée.
+description: Réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis.
 imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
 ---
+
+Ce site a été cloné et adapté du site Cyclopolis de l'association lyonnaise La ville à vélo. Ci-dessous, les réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis. Une page spécifiue sur la méthodologie utilisée par l'Apav sera réalisée.
+
 
 *Pourquoi ce tronçon est marqué « terminé » alors qu’il n’y a eu aucuns travaux ?  
 Pourquoi ma rue est considérée comme « prévue » alors qu’il y a déjà une piste ?  

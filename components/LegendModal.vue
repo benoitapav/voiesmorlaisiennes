@@ -63,7 +63,7 @@
               </div>
             </div>
             <div>
-              prévu ou reporté après 2026
+              prévu ou reporté
             </div>
           </div>
         </div>
