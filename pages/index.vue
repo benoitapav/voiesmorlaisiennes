@@ -17,7 +17,7 @@
                 Pour que les aménagements à venir sur les lignes définies ici prennent en compte le cahier des charges édité par Morlaix Communauté en 2024 pour les aménagements cyclables.
               </li>
               <li>
-                Pour que les habitant.e.s du pays de Morlaix qui le souhaitent puissent se déplacer sans voiture et le coût qui lui est associé.
+                Pour que les habitant.e.s du pays de Morlaix qui le souhaitent puissent se déplacer sans voiture et sans subir le coût qui lui est associé.
               </li>
               <li>
                 Pour donner des idées aux élu.e.s en cours et futurs. 

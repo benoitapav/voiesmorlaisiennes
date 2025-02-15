@@ -37,7 +37,7 @@
                   Budget<br><small>Budjed</small>
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  inconnu
+                  à définir
                 </dd>
               </div>
             </dl>

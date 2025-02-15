@@ -12,8 +12,8 @@
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://framateam.org/files/gadct6ux6ff6zfe8o4g6d41t5r/public?h=fYji0u4sGd_orPciXjZNH0E45n2MIAph1324gZN0JJA"
-              alt="logo cyclopolis"
+              src="https://framateam.org/files/b3qdedfut7dwixrp69pzyk87gc/public?h=u59bTKzoChquyRHGlclWir2VhtXF3-qot9H-gX75grI"
+              alt="logo itiVéloMorlaix"
             >
           </NuxtLink>
         </div>
