@@ -76,9 +76,9 @@ Itinéraire testé APAV le 16 juin 2018 puis le 2 novembre 2024
 
 DÉPART Morlaix rond-point de la Vierge Noire\
 ARRIVÉE Morlaix rue de Ploujean n°78\
-POINTS D’INTÉRÊT :\
- - Arrivée directe au/depuis Stade Coatserho via rue du maréchal Foch avant/après emprunt de la :line-link{line=4}\
- - Trajet hors circulation pour habitants quartier Langevin\
+POINTS D’INTÉRÊT :
+ - Arrivée directe au/depuis Stade Coatserho via rue du maréchal Foch avant/après emprunt de la :line-link{line=4}
+ - Trajet hors circulation pour habitants quartier Langevin
 
 ::banner{type="info"}
 CONDITIONS : Aménagement à améliorer pour l'insertion sur le rond-point de la Vierge Noire
@@ -90,7 +90,7 @@ Itinéraire testé APAV le 2 novembre 2024
 ### Variante de traversée de Morlaix de la Vierge Noire aux Jardins solidaires
 
 DÉPART Morlaix avant rond-point Vierge Noire\
-ARRIVÉE Morlaix Jardins solidaires\
+ARRIVÉE Morlaix Jardins solidaires
 
 ::banner{type="info"}
 Cette variante permet d'éviter le passage par le centre ville de Morlaix
@@ -103,12 +103,12 @@ Parcours alternatif aux itinéraires de la :line-link{line=2} et de la :line-lin
 DÉPART Morlaix Mairie\
 ARRIVÉE Plourin les Morlaix Mairie\
 POINTS D’INTÉRÊT : Musée des Jacobins, Écoles du Poan Ben, Centre des Finances publiques, Jardins solidaires + jonction avec la voie verte Morlaix-Concarneau\
-CONDITIONS :\ 
+CONDITIONS :
  - aménagement Poan Ben en DSC
- - sécurisation traversée D9 au Pont Noir\
+ - sécurisation traversée D9 au Pont Noir
 
 ::banner{type="unsecured"}
-DIFFICULTÉS :\
+DIFFICULTÉS :
  - pente conséquente Route de la croix de pierre
  - traversée de la D9 près du Pont Noir
  - traversée de la route de Paris
@@ -120,7 +120,7 @@ DIFFICULTÉS :\
 
 Jonction Plourin lès Morlaix-Plougonven par voie verte\
 DÉPART Jonction Plourin/Morlaix Voie EV1\
-ARRIVÉE Plougonven Mairie, via Coatélan\
+ARRIVÉE Plougonven Mairie, via Coatélan
 
 ::banner{type="unsecured"}
 DIFFICULTÉ : portion de quelques décamètres sur D109 très circulante

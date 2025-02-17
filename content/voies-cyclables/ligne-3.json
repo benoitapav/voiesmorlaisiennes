@@ -9,7 +9,7 @@
         "status": "planned",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/voie-morlaisienne-3#-de-plouézoch-à-ploujean"
+        "link": "/voie-morlaisienne-3#de-plouézoch-à-ploujean"
       },
       "geometry": {
         "type": "LineString",
@@ -143,10 +143,10 @@
       "properties": {
         "line": 3,
         "name": "Rue de l’église",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/voie-morlaisienne-3"
+        "link": "/voie-morlaisienne-3#variante-ploujean-rd76-avant-le-dourduff-en-mer"
       },
       "geometry": {
         "type": "LineString",
@@ -160,10 +160,10 @@
       "properties": {
         "line": 3,
         "name": "Rue des Perdrix et Penn An Traon C12",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
-        "link": "/voie-morlaisienne-3"
+        "link": "/voie-morlaisienne-3#variante-ploujean-rd76-avant-le-dourduff-en-mer"
       },
       "geometry": {
         "type": "LineString",
@@ -645,7 +645,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-3.8174232834921327,48.57528616132228],[-3.8179349804262017,48.57551091513528],[-3.8182996994474934,48.57566491325892],[-3.818519985580849,48.57574534959204],[-3.818747757549943,48.575788812648625], [3.8187472586448052,48.575788820196124],[-3.8205405866624744,48.575909302238415],[-3.821125245137381,48.57592283506537]
+          [-3.8174232834921327,48.57528616132228],[-3.8179349804262017,48.57551091513528],[-3.8182996994474934,48.57566491325892],[-3.818519985580849,48.57574534959204],[-3.818747757549943,48.575788812648625],[-3.8187472586448052,48.575788820196124],[-3.8205405866624744,48.575909302238415],[-3.821125245137381,48.57592283506537]
         ]
       }
     },
@@ -952,7 +952,7 @@
       "properties": {
         "line": 3,
         "name": "Rues Camille Langevin et Charles Longuet",
-        "status": "variante-planned",
+        "status": "",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -969,7 +969,7 @@
       "properties": {
         "line": 3,
         "name": "Rues de la Vierge Noire et du Maréchal Foch",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -987,7 +987,7 @@
         "line": 3,
         "id": "Bas rue de Plougasnou-commun",
         "name": "Bas rue de Plougasnou",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1021,7 +1021,7 @@
       "properties": {
         "line": 3,
         "name": "Rue de Bréhat",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1039,7 +1039,7 @@
         "line": 3,
         "id": "Rue Laënnec-commun",
         "name": "Rue Laënnec",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1057,7 +1057,7 @@
         "line": 3,
         "id": "Bellevue de la Madeleine du 2 au 14ter-commun",
         "name": "Bellevue de la Madeleine du 2 au 14ter",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1074,7 +1074,7 @@
       "properties": {
         "line": 3,
         "name": "Venelle et place de la madeleine sens SN",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1092,7 +1092,7 @@
         "line": 3,
         "id": "Rue de la madeleine sens NS-commun",
         "name": "Rue de la madeleine sens NS",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1109,7 +1109,7 @@
       "properties": {
         "line": 3,
         "name": "Bellevue de la Madeleine jonction rue de la Madeleine-rue Laënnec sens NS",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1127,7 +1127,7 @@
         "line": 3,
         "id": "Venelle de la Madeleine nord-commun",
         "name": "Venelle de la Madeleine nord",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1145,7 +1145,7 @@
         "line": 3,
         "id": "Rue Paul Sérusier Est-commun",
         "name": "Rue Paul Sérusier Est",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "aucun",
         "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1162,7 +1162,7 @@
       "properties": {
         "line": 3,
         "name": "Avenue de Würselen Skate Park",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "bandes-cyclables",
         "quality": "satisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1180,7 +1180,7 @@
         "line": 3,
         "id": "Avenue de Würselen du skate park au rond-point Boissière-Prigent-commun",
         "name": "Avenue de Würselen du skate park au rond-point Boissière-Prigent",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "bandes-cyclables",
         "quality": "satisfactory",
         "link": "/voie-morlaisienne-3"
@@ -1197,7 +1197,7 @@
       "properties": {
         "line": 3,
         "name": "Würselen-Truro",
-        "status": "variante-planned",
+        "status": "variante",
         "type": "bandes-cyclables",
         "quality": "satisfactory",
         "link": "/voie-morlaisienne-3"
