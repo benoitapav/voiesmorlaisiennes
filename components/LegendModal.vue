@@ -14,7 +14,7 @@
           <Icon name="mdi:close" class="h-6 w-6" aria-hidden="true" />
         </button>
         <DialogTitle class="text-lg font-medium leading-6 text-gray-900">
-          Légende
+          Légende itiVéloMorlaix
         </DialogTitle>
         <div class="mt-2">
           <div class="grid grid-cols-[64px_1fr] gap-x-4">
