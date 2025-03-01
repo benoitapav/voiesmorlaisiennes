@@ -4,20 +4,38 @@ line: 1
 from: Carantec
 to: Pleyber-Christ
 description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et Locquénolé à Morlaix d'une part, et d'autre part Morlaix à Pleyber-Christ, en passant par les bords de la rivière / D769 et la "route de Lesquiffiou".
-trafic: N/A vélos/jour
 cover: https://framateam.org/files/kyfw34tjmf8ctkarmkfco6n9ko/public?h=891I09GEzleef4xPY3T2dxot18-ru4OtlAzPTf2P6xM
 ---
 
+Points d'intérêt rencontrés sur cette ligne :
+ - mairie de Carantec
+ - cinéma Etoile
+ - panorama des bords de la baie de Morlaix
+ - maison de retraite St François
+ - écluses de Morlaix
+ - Manu (SEW, espace des sciences...)
+ - IUT de Morlaix
+ - Commissariat de police de Morlaix
+ - Maison Penanault (office du tourisme et centre d'interprétation de la baie de Morlaix)
+ - mairie de Morlaix
+ - théâtre de Morlaix
+ - mosquée
+ - manoir de Lesquiffiou
+ - mairie de Pleyber-Christ
+ - mairie de Plourin-lès-Morlaix par la variante de liaison
+
+
 ## Les tronçons (du Nord au Sud)
 
-[Télécharger le tracé format .gpx, 25ko] (https://framateam.org/files/1bnc15rh73gk3kh7zsg3dkgoiw/public?h=f5wwqUncrNSheQ_IyOEQuOfOictwGpDVnvYyZQqtaLU)
+[Télécharger le tracé format .gpx, 29ko](https://framateam.org/files/bib1qo9j3iyiddztxbsapmjz9o/public?h=oaap9FhrKmR0e9OGunjfxgArk1G3zEZmVJS86vPq4DA)
+
 
 ### Carantec à Locquénolé
 
 *via la RD73*
 
-DÉPART Mairie de Carantec\
-POINTS D’INTÉRÊT = Bourg de Carantec, cinéma Etoile, Golf, panorama sur la baie de Morlaix\
+DÉPART : Mairie de Carantec\
+POINTS D’INTÉRÊT : Bourg de Carantec, cinéma Etoile, Golf, panorama sur la baie de Morlaix\
 DIFFICULTÉS : Circuit adapté vélo mais dangereux sur la portion route de la corniche ; Passage pied à terre à Ty Nod (ostréiculture).
 Sur cette section, un aménagement de type piste cyclable peut être envisagé en entrée/sortie de Carantec, ainsi que des portions en CVCB (Chaucidou) en entrée/sortie de Locquénolé et de Taulé/St Julien.
 
@@ -49,7 +67,7 @@ Morlaix Communauté a intégré l'ensemble de l'itinéraire Morlaix-Locquénolé
 ::
 
 #### Locquénolé route de Montmarin Sud - Rue de Loreizic - RD73 jusqu'à la Pennelé
-L'emblématique route de la corniche, mérite un aménagement cyclable, ne serait-ce pour accueillir les cyclotouristes très nombreux sur un itinéraire EV1 Roscoff-Morlaix passant par la corniche.
+L'emblématique route de la corniche, mérite un aménagement cyclable, ne serait-ce pour accueillir les cyclotouristes très nombreux sur les itinéraires EV1 et EV4 Roscoff-Morlaix passant par la corniche.
 
 
 #### St Martin des Champs Allée de St François (RD73) jusqu'aux écluses
@@ -66,20 +84,26 @@ Cette section est en travaux, réalisation Morlaix Communauté. L'Apav a été c
 ::
 
 #### Morlaix Places Charles de Gaulle - Cornic - Otages
-Cette section est en tronçon commun avec plusieurs autres lignes, entre autres la :line-link{line=2}.
+Cette section est en tronçon commun avec la :line-link{line=2}, la :line-link{line=3}, la :line-link{line=4} et la :line-link{line=26}.
 
 #### Morlaix Rue de Brest
-Cette section présente la première Chaussée à Voie Centrale Banalisée de Morlaix, réalisée en 2018 (à vérifier APAV) grâce à l'intervention de l'Apav qui a fait une proposition "de fin d'avant-projet" pour éviter qu'il n'y ait rien de prévu pour les cycles. Mise en chaucidou, vitesse limitée à 30 km/h.
+Cette section présente la première Chaussée à Voie Centrale Banalisée de Morlaix, réalisée en 2019 grâce à l'intervention de l'Apav qui a fait une proposition "de fin d'avant-projet" pour éviter qu'il n'y ait rien de prévu pour les cycles - voir [article Ouest France du 25 mai 2019](https://www.ouest-france.fr/bretagne/morlaix-29600/morlaix-bientot-la-rue-de-brest-aura-beaucoup-change-6366953). Mise en chaucidou, vitesse limitée à 30 km/h.
 
 ### Morlaix à Pleyber-Christ
 
-ARRIVÉE Mairie de Pleyber Christ\
+ARRIVÉE : Mairie de Pleyber Christ\
 POINTS D’INTÉRÊT : Mosquée, manoir de Lesquiffiou\
+
+::banner{type="unsecured"}
 DIFFICULTÉS : le long de la RD769 de Pont-Pol à Morlaix, pas d’aménagements cyclistes sur une route assez fréquentée (vitesse toutefois régulièrement limitée à 70 km/h voire 50 km/h)
 La route "de Lesquiffiou" (C4) est belle mais beaucoup trop fréquentée par des véhicules motorisés ; la RD712 (via Kerangoff / Le Cun) est ainsi plus recommandable, étonnamment, avec une grosse difficulté de traversée du Boulevard de Réo (au Pontro) et un axe D785 non aménagé en entrée de Pleyber Christ.
+::
 
 ### Liaison de Pleyber-Christ à Plourin-lès-Morlaix
 
-DEPART Route C4 près de Pen Ar Quinquis\
-ARRIVÉE Mairie de Plourin les Morlaix\
+DEPART : Route C4 près de Pen Ar Quinquis\
+ARRIVÉE : Mairie de Plourin les Morlaix\
+
+::banner{type="unsecured"}
 DIFFICULTÉS : Pas d'aménagements, de la déclivité mais peu de trafic motorisé
+::

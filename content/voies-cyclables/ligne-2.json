@@ -20,6 +20,36 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
+        "name": "Mairie de Lanmeur",
+        "imgUrl": "https://www.communes.com/images/thumbs/bretagne/finistere/lanmeur_29620/730x328/lanmeur_350868.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7154375329562583,
+          48.647006127257214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Tribunal de Morlaix",
+        "imgUrl": "https://media.letelegramme.fr/api/v1/images/view/63e3b855ceda3814ea43ec9b/web_golden_xxl/63e3b855ceda3814ea43ec9b.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823164071569238,
+          48.57641310815802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "line": 2,
         "id": "Mairie-Libération-Tanguy Prigent-commun",
         "name": "Mairie-Libération-Tanguy Prigent",

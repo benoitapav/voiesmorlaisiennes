@@ -1,7 +1,183 @@
 {
   "type": "FeatureCollection",
   "features": [
-  {
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Mairie de Carantec",
+        "line": 1,
+        "imgUrl": "https://www.communes.com/images/thumbs/bretagne/finistere/carantec_29660/730x328/carantec_284919.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9137850120564224,
+          48.66764342664686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Maison de retraite St François",
+        "line": 1,
+        "imgUrl": "https://morlaix.adeodat.fr/wp-content/uploads/sites/7/2018/05/49.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.846306718208524,
+          48.60038484361425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Ecluses de Morlaix",
+        "line": 1,
+        "imgUrl": "https://plaisancehautfinistere.bzh/wp-content/uploads/2023/03/ecluses_morlaix_2%C2%A9ccimbo_fm_le_squin.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8378984370092724,
+          48.588292790736574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "La Manu - espace des sciences, SEW",
+        "line": 1,
+        "imgUrl": "https://p.monumentum.fr/galerie/maxi/00119/119891-francais-facade-principale-de-la-manufacture-des-tabacs-de-morlaix-29.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.835033362085028,
+          48.58362557827434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "IUT de Morlaix",
+        "line": 1,
+        "imgUrl": "https://www.iut-brest.fr/wp-content/uploads/2023/09/PXL_20230904_083948123.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.835798461335429,
+          48.58408327065038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Commissariat de police de Morlaix",
+        "line": 1,
+        "imgUrl": "https://media.letelegramme.fr/api/v1/images/view/63e471e0f4b14062b8277e5d/web_golden_xxl/63e471e0f4b14062b8277e5d.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8314991132172054,
+          48.58164352055297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Maison Penanault - office du tourisme de Morlaix",
+        "line": 1,
+        "imgUrl": "https://p.monumentum.fr/main/29/pa29000055-morlaix-maison-dite-penanault.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.830602910715953,
+          48.581024707692904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Théâtre de Morlaix",
+        "line": 1,
+        "imgUrl": "https://www.morlaix.bzh/fileadmin/_processed_/c/9/csm_theatre-morlaix_56eb9756a7.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8291698396936056,
+          48.57599135140251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Mairie de Morlaix",
+        "line": 1,
+        "imgUrl": "https://www.morlaix.bzh/fileadmin/_processed_/b/b/csm_IMG_6607_dfae719326.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82826186768807,
+          48.57764481097561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Mairie de Pleybert Christ",
+        "line": 1,
+        "imgUrl": "https://www.pleyber-christ.fr/fileadmin/_processed_/0/1/csm_IMG_3582_103e11f346.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8751747119002573,
+          48.50491643416839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Manoir et ferme de Lesquiffiou",
+        "line": 1,
+        "imgUrl": "https://www.unidivers.fr/wp-content/uploads/2024/06/ferme-modele-de-lesquiffiou-pleyber-christ-2024-09-21t1400000200.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8404042387523987,
+          48.544218600573686
+        ]
+      }
+    },
+    {
   "type": "Feature",
   "properties": {
   "line": 1,

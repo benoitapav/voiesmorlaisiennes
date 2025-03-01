@@ -23,7 +23,7 @@
         "type": "perspective",
         "name": "Mairie de Morlaix",
         "line": 3,
-        "imgUrl": "https://www.communes.com/images/thumbs/bretagne/finistere/morlaix_29600/730x328/morlaix_215693.jpg"
+        "imgUrl": "https://www.morlaix.bzh/fileadmin/_processed_/b/b/csm_IMG_6607_dfae719326.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "type": "perspective",
         "name": "Eglise de Ploujean",
         "line": 3,
-        "imgUrl": "https://monumentum.fr/eglise-ploujean-pa00090127.html"
+        "imgUrl": "https://p.monumentum.fr/main/29/pa00090127-morlaix-eglise-de-ploujean.jpg"
       },
       "geometry": {
         "type": "Point",
