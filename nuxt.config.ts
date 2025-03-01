@@ -1,8 +1,8 @@
 import config from './config.json';
 
-const TITLE = `Cyclopolis - Suivi des ${config.revName.plural} par ${config.assoName}`;
+const TITLE = `ItiVéloMorlaix - Suivi des ${config.revName.plural} par ${config.assoName}`;
 const DESCRIPTION =
-  `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé lyonnais`;
+  `Plateforme citoyenne et associative, par ${config.assoName}. Proposition de réseau, cartes interactives des itinéraires, détails, travaux : rejoignez-nous dans la demande de réseau cyclable sécurisé morlaisien`;
 const BASE_URL = 'https://cyclopolis.fr';
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 

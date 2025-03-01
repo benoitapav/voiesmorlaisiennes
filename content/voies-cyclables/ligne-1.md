@@ -10,6 +10,7 @@ cover: https://framateam.org/files/kyfw34tjmf8ctkarmkfco6n9ko/public?h=891I09GEz
 
 ## Les tronçons (du Nord au Sud)
 
+[Télécharger le tracé format .gpx, 25ko] (https://framateam.org/files/1bnc15rh73gk3kh7zsg3dkgoiw/public?h=f5wwqUncrNSheQ_IyOEQuOfOictwGpDVnvYyZQqtaLU)
 
 ### Carantec à Locquénolé
 
