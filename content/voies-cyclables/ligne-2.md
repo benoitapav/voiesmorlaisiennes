@@ -41,7 +41,7 @@ Les villes de Lanmeur et Plouézoc'h ont aménagé dans les années 2010 des ent
 DÉPART : Plouezoc'h Mairie\
 ARRIVÉE : Morlaix Mairie\
 POINTS D’INTÉRÊT : Maison Penanault, Commissariat de police, Écluses, Maison Cornic, Port du Dourduff\
-Par RD76 bord de la rivière de Morlaix puis Hauts du Dourduff\
+Par RD76 bord de la rivière de Morlaix puis Hauts du Dourduff
 
 ::banner{type="info"}
 CONDITIONS : Sécurisation de la D76
@@ -54,13 +54,13 @@ CONDITIONS : Sécurisation de la D76
 
 DÉPART : Morlaix Mairie\
 ARRIVÉE : Plourin les Morlaix Mairie\
-POINTS D’INTÉRÊT : Musée des Jacobins, Tannerie\
+POINTS D’INTÉRÊT : Musée des Jacobins, Tannerie
 
 ::banner{type="unsecured"}
 DIFFICULTÉS : il existe un pont noir identifié au croisement Toul Ar Parc / Parc au Duc ; ensuite, la circulation est potentiellement intense jusqu'au MenGuen (rue de la Tannerie + vallon du Stang Coz, jusqu'au carrefour Ker Héol/Chopin).
 ::
 
 Ensuite, le vallon du Men Guen est devenue, sous la demande et avec l'accompagnement de l'Apav, une voie réservée aux riverains et aux mobilités actives jusqu'à Lanven.\
-Une piste cyclable a été réalisée en 2022 le long de la route du Pillion, de Lanven au rond-point de Rutanguy ; lui succède un vieil aménagement sur trottoir partagé (zone piétonne) rue du Trégor, peu favorable à une allure rapide.\
+Une piste cyclable a été réalisée en 2022 le long de la route du Pillion, de Lanven au rond-point de Rutanguy ; lui succède un vieil aménagement sur trottoir partagé (zone piétonne) rue du Trégor, peu favorable à une allure rapide.
 
 Il n'y a pas d’aménagement à partir du rond-point du « garage Morvan » pour rejoindre la mairie de Plourin. Il existe toutefois une possibilité d'itinéraire par la rue d'Arvor et la rue Tanguy Prigent, depuis le rond-point Rutanguy.

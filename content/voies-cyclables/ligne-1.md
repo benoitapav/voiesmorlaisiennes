@@ -84,7 +84,7 @@ Cette section est en travaux, réalisation Morlaix Communauté. L'Apav a été c
 ::
 
 #### Morlaix Places Charles de Gaulle - Cornic - Otages
-Cette section est en tronçon commun avec la :line-link{line=2}, la :line-link{line=3}, la :line-link{line=4} et la :line-link{line=26}.
+Cette section est en tronçon commun avec la :line-link{line=2}, la :line-link{line=3}, la :line-link{line=4} et la :line-link{line=6}.
 
 #### Morlaix Rue de Brest
 Cette section présente la première Chaussée à Voie Centrale Banalisée de Morlaix, réalisée en 2019 grâce à l'intervention de l'Apav qui a fait une proposition "de fin d'avant-projet" pour éviter qu'il n'y ait rien de prévu pour les cycles - voir [article Ouest France du 25 mai 2019](https://www.ouest-france.fr/bretagne/morlaix-29600/morlaix-bientot-la-rue-de-brest-aura-beaucoup-change-6366953). Mise en chaucidou, vitesse limitée à 30 km/h.
@@ -92,7 +92,7 @@ Cette section présente la première Chaussée à Voie Centrale Banalisée de Mo
 ### Morlaix à Pleyber-Christ
 
 ARRIVÉE : Mairie de Pleyber Christ\
-POINTS D’INTÉRÊT : Mosquée, manoir de Lesquiffiou\
+POINTS D’INTÉRÊT : Mosquée, manoir de Lesquiffiou
 
 ::banner{type="unsecured"}
 DIFFICULTÉS : le long de la RD769 de Pont-Pol à Morlaix, pas d’aménagements cyclistes sur une route assez fréquentée (vitesse toutefois régulièrement limitée à 70 km/h voire 50 km/h)
@@ -102,7 +102,7 @@ La route "de Lesquiffiou" (C4) est belle mais beaucoup trop fréquentée par des
 ### Liaison de Pleyber-Christ à Plourin-lès-Morlaix
 
 DEPART : Route C4 près de Pen Ar Quinquis\
-ARRIVÉE : Mairie de Plourin les Morlaix\
+ARRIVÉE : Mairie de Plourin les Morlaix
 
 ::banner{type="unsecured"}
 DIFFICULTÉS : Pas d'aménagements, de la déclivité mais peu de trafic motorisé

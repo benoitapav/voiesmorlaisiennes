@@ -33,7 +33,7 @@ Points d'intérêt rencontrés sur cette ligne :
 ### De Plouézoch à Ploujean
 
 DÉPART : Plouezoc'h Mairie\
-ARRIVÉE : Ploujean place Scornet via Le Dourduff en Mer\
+ARRIVÉE : Ploujean place Scornet via Le Dourduff en Mer
 
 ::banner{type="info"}
 Passage dans les bois, prévoir vélo tout chemin, le long de la rivière du Dourduff. La piste mériterait d'être améliorée, il s'agit de l'EuroVélo4.
@@ -46,7 +46,7 @@ Itinéraire testé APAV le 16 juin 2018
 *Itinéraire alternatif vélo Ploujean-Le Dourduff en Mer*
 *
 DÉPART : RD76 avant le Dourduff en mer\
-ARRIVÉE : Ploujean place Scornet\
+ARRIVÉE : Ploujean place Scornet
 
 ::banner{type="info"}
 Cette variante permet d'éviter le passage par l'EuroVélo4 parfois boueux pour rejoindre le pont du Dourduff en empruntant la :line-link{line=2} depuis le sud du pont du Dourduff en mer jusqu'à la jonction vers Ploujean.
@@ -57,7 +57,7 @@ Cette variante permet d'éviter le passage par l'EuroVélo4 parfois boueux pour 
 
 DÉPART : Ploujean place F. Scornet\
 ARRIVÉE : Morlaix Mairie\
-POINTS D’INTÉRÊT : Stade Coatserho, Centre Zoé Puyo, Clinique de la Baie, ZC La Vierge Noire, Ploujean bourg\
+POINTS D’INTÉRÊT : Stade Coatserho, Centre Zoé Puyo, Clinique de la Baie, ZC La Vierge Noire, Ploujean bourg
 
 ::banner{type="info"}
 CONDITIONS :
@@ -101,7 +101,7 @@ Cette variante permet d'éviter le passage par le centre ville de Morlaix
 
 DÉPART : Morlaix Mairie\
 ARRIVÉE : Plourin les Morlaix Mairie\
-POINTS D’INTÉRÊT : Musée des Jacobins, Écoles du Poan Ben, Centre des Finances publiques, Jardins solidaires + jonction avec la voie verte Morlaix-Concarneau\
+POINTS D’INTÉRÊT : Musée des Jacobins, Écoles du Poan Ben, Centre des Finances publiques, Jardins solidaires + jonction avec la voie verte Morlaix-Concarneau
 
 ::banner{type="info"}
 CONDITIONS :
