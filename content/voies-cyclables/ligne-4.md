@@ -26,7 +26,7 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (d'Est en Ouest)
 
-[Télécharger le tracé format .gpx, 29ko](https://framateam.org/files/rzh8dzrjrjb9f87jt5t9yxhsxc/public?h=kJCrbEmSOAMtmaB6Uee7g75NYj3iXCByPFPQ_CGkJe8)
+[Télécharger le tracé format .gpx, 65ko](https://framateam.org/files/rzh8dzrjrjb9f87jt5t9yxhsxc/public?h=kJCrbEmSOAMtmaB6Uee7g75NYj3iXCByPFPQ_CGkJe8)
 
 
 ### De Lanmeur à la jonction Morlaix/Bois de la Roche

@@ -4,64 +4,94 @@ line: 5
 from: Plouigneau/Lanleya
 to: Taulé
 description: à écrire
-trafic: N/A vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
+
+Points d'intérêt rencontrés sur cette ligne :
+ - mairie de Plouigneau
+ - bourg de Lanleya
+ - AFPA de Morlaix
+ - musée de Morlaix
+ - mairie de Morlaix
+ - bibliothèque Les Ailes du Temps à Morlaix
+ - gare SNCF de Morlaix
+ - mairie de St Martin des Champs
+ - maison de retraite de St François
+ - mairie de Taulé
+
+
 ## Les tronçons (d'Est en Ouest)
 
-*à finir de rédiger*
+*tracé format .gpx à venir*
 
-Au 12 février 2024, 5 tronçons (dont 1 variante) ont été intégrés à la carte itiVéloMorlaix, issus de la carte uMap, sans découpage plus fin des tronçons en fonction de leur statut ou typologie.
 
-### De Lanleya à la jonction Morlaix/Bois de la Roche
+### De Lanleya à la jonction vers Plouigneau
 
-Jonction Plouigneau-Lanleya\
-DÉPART Lanleya Mairie annexe\
+*Jonction  de Lanleya à Morlaix*
+
+DÉPART Ecole de Lanleya\
 ARRIVÉE Coude sur :line-link{line=5} Plouigneau\
-Via Moulin de la Salle/Kerlaz/Poulligou, sur routes secondaires
+Via Poulligou/Kerlaz/Moulin de la Salle, sur routes secondaires
 
 
-### De la jonction Morlaix/Bois de la Roche à Morlaix
+### De Plouigneau à Morlaix
 
-Itinéraire vélo Plouigneau-Morlaix alternatif à la :line-link{line=6}\
-Itinéraire familial, évitant au maximum les routes départementales\
-DÉPART Plouigneau Mairie\
-ARRIVÉE Morlaix Mairie\
-POINTS D’INTÉRÊT : Musée, Ursulines (liaison EuroVélo1), Cimetière St Nicolas, Hameau Penlan\
-CONDITIONS : Aménagement souhaité Vignes/Bréhat (interdiction transit)\
-DIFFICULTÉS : quelques passages dangereux
+*Itinéraire vélo Plouigneau-Morlaix alternatif à la :line-link{line=6}*
+*Itinéraire familial, évitant au maximum les routes départementales*
+
+DÉPART Mairie de Plouigneau\
+ARRIVÉE Mairie de Morlaix\
+POINTS D’INTÉRÊT : Musée de Morlaix, Ursulines (liaison EuroVélo1), Cimetière St Nicolas, Hameau Penlan
+
+::banner{type="info"}
+CONDITIONS : Aménagement souhaité Vignes/Bréhat (interdiction transit)
+::
+
+::banner{type="unsecured"}
+Attention, sur ce parcours, il existe quelques passages dangereux
+::
+
+::banner{type="info"}
+Une alternative existe en venant de Lanleya, avant de franchir le pont sur la RN12, passage possible par Kergustou Jacob mais route défoncée
+::
 
 
 ### De Morlaix à St Martin des Champs par la rue Gambetta
 
-DÉPART Morlaix Mairie\
-ARRIVÉE St Martin des Champs Mairie\
+DÉPART Mairie de Morlaix\
+ARRIVÉE Mairie de St Martin des Champs\
 POINTS D’INTÉRÊT : Médiathèque, Gare PEM\
-CONDITIONS : \
-Rue Gambetta potentiellement en sens unique avec DSC\
-Possibilité de préconiser la rue Longue en alternative
 
-Itinéraire testé APAV le 30 novembre 2024
+::banner{type="unsecured"}
+CONDITIONS : 
+- Rue Gambetta potentiellement en sens unique avec DSC
+- Possibilité de préconiser la rue Longue en alternative
+::
+
+*Itinéraire testé APAV le 30 novembre 2024*
 
 
 ### De la gare de Morlaix à la maison de retraite St François
 
-Itinéraire bis St François/Gare Morlaix - réalisé à 98% (Piste mixte type voie verte)\
-DÉPART Morlaix Gare\
-ARRIVÉE près maison de retraite St François\
-POINTS D’INTÉRÊT : Maison de retraite St François, Gare PEM\
+*Itinéraire bis St François/Gare Morlaix - réalisé à 98% (Piste mixte type voie verte)*
+
+DÉPART Gare SNCF de Morlaix\
+ARRIVÉE Près de la maison de retraite St François\
+POINTS D’INTÉRÊT : Maison de retraite St François, Gare PEM
+
+::banner{type="unsecured"}
 CONDITIONS : Piste à mieux baliser + aménagement à transformer au débouché route C6/D769
+::
 
 
 ### De la maison de retraite St François à la Pennelé
 
-Itinéraire commun à la :line-link{line=1}\
-100% routier sur RD73
+Itinéraire 100% routier sur RD73, commun à la :line-link{line=1}
 
 
 ### De la Pennelé à Taulé par la RD769
 
 Circuit 100% routier départemental\
 DÉPART Corniche au débouché de la Pennelé\
-ARRIVÉE Taulé Mairie
+ARRIVÉE Mairie de Taulé

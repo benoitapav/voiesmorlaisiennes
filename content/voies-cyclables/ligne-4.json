@@ -6,6 +6,7 @@
       "properties": {
         "type": "perspective",
         "name": "Mairie de Lanmeur",
+        "line": 4,
         "imgUrl": "https://www.communes.com/images/thumbs/bretagne/finistere/lanmeur_29620/730x328/lanmeur_350868.jpg"
       },
       "geometry": {
@@ -194,6 +195,7 @@
       "properties": {
         "type": "perspective",
         "name": "Mairie de Garlan",
+        "line": 4,
         "imgUrl": "https://garlan.fr/wp-content/uploads/2021/06/Mairie-siteb-scaled.jpg"
       },
       "geometry": {

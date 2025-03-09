@@ -22,6 +22,7 @@
       "properties": {
         "type": "perspective",
         "name": "Mairie de Lanmeur",
+        "line": 2,
         "imgUrl": "https://www.communes.com/images/thumbs/bretagne/finistere/lanmeur_29620/730x328/lanmeur_350868.jpg"
       },
       "geometry": {
@@ -37,6 +38,7 @@
       "properties": {
         "type": "perspective",
         "name": "Tribunal de Morlaix",
+        "line": 2,
         "imgUrl": "https://media.letelegramme.fr/api/v1/images/view/63e3b855ceda3814ea43ec9b/web_golden_xxl/63e3b855ceda3814ea43ec9b.1"
       },
       "geometry": {
