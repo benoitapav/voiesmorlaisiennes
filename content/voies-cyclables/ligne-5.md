@@ -7,6 +7,7 @@ description: La ligne 5 des Voies Morlaisiennes permettra de relier Plouigneau (
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
+
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Plouigneau
  - bourg de Lanleya

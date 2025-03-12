@@ -26,7 +26,8 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (d'Est en Ouest)
 
-*[Télécharger le tracé format .gpx, 29ko](à insérer)*
+[Télécharger le tracé format .gpx, 65ko](https://framateam.org/files/rzh8dzrjrjb9f87jt5t9yxhsxc/public?h=kJCrbEmSOAMtmaB6Uee7g75NYj3iXCByPFPQ_CGkJe8)
+
 
 
 ### De Lanmeur à la jonction Morlaix/Bois de la Roche
@@ -42,12 +43,12 @@ DIFFICULTÉS : la portion sur la D786 est très compliquée, car la route est tr
 
 DÉPART Mairie de Garlan ou jonction Garlan via Bois de la Roche\
 ARRIVÉE Mairie de Morlaix\
-POINTS D’INTÉRÊT : Ty Dour, école Jean Jaurès, piscine, ZC la Boissière/Leclerc, France Travail (liaison)\
+POINTS D’INTÉRÊT : Ty Dour, école Jean Jaurès, piscine, ZC la Boissière/Leclerc, France Travail (liaison)
 
 ::banner{type="info"}
 CONDITIONS :
 - mise en DSC de la rue de Ploujean
-- interdiction de la rue de Ploujean aux véhicules motorisés sauf riverains et livraisons (de la Grande Venelle à la Cité des Marronniers)
+- interdiction de la rue de Ploujean aux véhicules motorisés sauf riverains et livraisons (de la Grande Venelle à la Cité des Marronniers)\
 AVANTAGE : éviter l'utilisation de la rue de Ploujean comme raccourci, ce qui amène des survitesses
 ::
 
@@ -59,7 +60,6 @@ Le tronçon entre le tunnel sous Wurselen et la rue Gustave Courbet est à amél
 
 #### Variante 1 Skate Park
 
-Trajet alternatif 1\
 DÉPART Morlaix Skate Park\
 ARRIVÉE Morlaix Rond-point Jean-Michel Caradec (Centre Leclerc)
 
@@ -73,7 +73,6 @@ CONDITIONS : Accès à sécuriser insertion avenue de Wurselen + difficulté sen
 
 #### Variante 2 Boissière Champ Le Goff
 
-Trajet alternatif 2\
 DÉPART Morlaix Rond-point Charles de Gaulle\
 ARRIVÉE Morlaix Rond-point Boissière/Prigent/Wurselen\
 
@@ -87,7 +86,6 @@ CONDITIONS : mise en DSC de la rue Champ Le Goff + sécurisation débouché Le G
 
 #### Variante 3 Mendès France
 
-Trajet alternatif 3\
 DÉPART Square Weygand\
 ARRIVÉE Rond-point Jean-Michel Caradec\
 POINTS D’INTÉRÊT : CAF, Collège Mendès-France, école Piaget, zone commerciale La Boissière/Leclerc, piscine La Boissière\
@@ -99,13 +97,14 @@ CONDITIONS : Aménagement du rond-point Wurselen/Sérusier et du rond-point Jean
 
 #### Variante 4 Germain Martin
 
-Trajet alternatif retour (sens Boissière-Mairie) à la Variante 3\
+*Trajet alternatif retour (sens Boissière-Mairie) à la Variante 3*\
 AVANTAGES : possibilité de rallier la :line-link{line=5} pour retourner en centre-ville
 
 
 ### De Morlaix à St Thégonnec Loc Eguiner
 
-Itinéraire direct par la RD712\
+*Itinéraire direct par la RD712*\
+
 DÉPART Morlaix Mairie\
 ARRIVÉE St Thégonnec-Loc-Eguiner Mairie\
 POINTS D’INTÉRÊT : Théâtre, Bas Hôpital, Bourg de St Thégonnec

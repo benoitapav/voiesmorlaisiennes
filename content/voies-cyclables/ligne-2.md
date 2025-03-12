@@ -4,7 +4,7 @@ line: 2
 from: Lanmeur
 to: Plourin-lès-Morlaix
 description: La ligne 2 des Voies Morlaisiennes permettra de relier Lanmeur et Plouézoc'h à Plourin-lès-Morlaix en passant par les bords de la rivière, en traversant Morlaix, et en empruntant la vallée du Men Guen et la piste cyclable du Pillion, ce qui en fait l'un des itinéraires les plus sécurisés en 2025.
-cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
+cover: https://framateam.org/files/tqd6ix8gs3nsi8rq83ebkkxt3a/public?h=8E-Pm0uP8m2OR-XBXkw7-f-uf4kgfVQOwMSo8fk-KNY
 ---
 
 Points d'intérêt rencontrés sur cette ligne :
