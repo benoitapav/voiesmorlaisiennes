@@ -149,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
-        "name": "Mairie de Pleybert Christ",
+        "name": "Mairie de Pleyber Christ",
         "line": 1,
         "imgUrl": "https://www.pleyber-christ.fr/fileadmin/_processed_/0/1/csm_IMG_3582_103e11f346.jpg"
       },
@@ -398,6 +398,7 @@
   "type": "Feature",
   "properties": {
   "line": 1,
+  "id": "Morlaix Quai du Léon-commun",
   "name": "Morlaix Quai du Léon",
   "status": "wip",
   "type": "zone-de-rencontre",

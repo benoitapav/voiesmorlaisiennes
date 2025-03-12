@@ -4,8 +4,9 @@ line: 1
 from: Carantec
 to: Pleyber-Christ
 description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et Locquénolé à Morlaix d'une part, et d'autre part Morlaix à Pleyber-Christ, en passant par les bords de la rivière / D769 et la "route de Lesquiffiou".
-cover: https://framateam.org/files/kyfw34tjmf8ctkarmkfco6n9ko/public?h=891I09GEzleef4xPY3T2dxot18-ru4OtlAzPTf2P6xM
+cover: https://framateam.org/files/kpf1dbwz9bynumuheju4gtg9oh/public?h=HtjGnrs4j2R6kyDB6PyE4cLAtPPCrEk5M8LAvpTIrSI
 ---
+
 
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Carantec
@@ -29,6 +30,15 @@ Points d'intérêt rencontrés sur cette ligne :
 
 [Télécharger le tracé format .gpx, 29ko](https://framateam.org/files/bib1qo9j3iyiddztxbsapmjz9o/public?h=oaap9FhrKmR0e9OGunjfxgArk1G3zEZmVJS86vPq4DA)
 
+::content-image
+---
+imageUrl: https://framateam.org/files/kyfw34tjmf8ctkarmkfco6n9ko/public?h=891I09GEzleef4xPY3T2dxot18-ru4OtlAzPTf2P6xM
+caption: Panorama depuis la route de Carantec à Locquénolé (D73, route de Frout Trez)
+credit: Google France
+streetView: 48.641148, -3.887609
+---
+::
+
 
 ### Carantec à Locquénolé
 
@@ -38,15 +48,6 @@ DÉPART : Mairie de Carantec\
 POINTS D’INTÉRÊT : Bourg de Carantec, cinéma Etoile, Golf, panorama sur la baie de Morlaix\
 DIFFICULTÉS : Circuit adapté vélo mais dangereux sur la portion route de la corniche ; Passage pied à terre à Ty Nod (ostréiculture).
 Sur cette section, un aménagement de type piste cyclable peut être envisagé en entrée/sortie de Carantec, ainsi que des portions en CVCB (Chaucidou) en entrée/sortie de Locquénolé et de Taulé/St Julien.
-
-::content-image
----
-imageUrl: https://framateam.org/files/kyfw34tjmf8ctkarmkfco6n9ko/public?h=891I09GEzleef4xPY3T2dxot18-ru4OtlAzPTf2P6xM
-caption: Panorama depuis la route de Carantec à Locquénolé (D73, route de Frout Trez)
-credit: Google France
-streetView: 48.641148, -3.887609
----
-::
 
 ::banner{type="info"}
 

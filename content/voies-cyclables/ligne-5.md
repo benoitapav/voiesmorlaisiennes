@@ -3,7 +3,7 @@ name: Voie Morlaisienne 5
 line: 5
 from: Plouigneau/Lanleya
 to: Taulé
-description: à écrire
+description: La ligne 5 des Voies Morlaisiennes permettra de relier Plouigneau (et Lanleya) à Taulé et inversement, en passant par le centre-ville de Morlaix. A noter, l'utilisation de la voie verte (ex-voie ferrée) entre la gare et la maison de retraite St François.
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
@@ -23,32 +23,37 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (d'Est en Ouest)
 
-*tracé format .gpx à venir*
+[Télécharger le tracé format .gpx, 51ko](https://framateam.org/files/7kxxp1fp83na3xp3o1xsfrfuww/public?h=LRzGtxFDh_IVa4nyatxedGPRsCwBkyAZ5qyV_YNvnpo)
+
+::content-image
+---
+imageUrl: https://maps.app.goo.gl/STs3fiagQUApsMD59
+caption: Plouigneau : mairie et église
+credit: Google France
+streetView: 48.56756240432192, -3.7019062469617703
+---
+::
 
 
 ### De Lanleya à la jonction vers Plouigneau
 
-*Jonction  de Lanleya à Morlaix*
+*Jonction de Lanleya à Morlaix via Poulligou/Kerlaz/Moulin de la Salle, sur routes secondaires*
 
 DÉPART Ecole de Lanleya\
-ARRIVÉE Coude sur :line-link{line=5} Plouigneau\
-Via Poulligou/Kerlaz/Moulin de la Salle, sur routes secondaires
+ARRIVÉE Coude sur :line-link{line=5} Plouigneau
 
 
 ### De Plouigneau à Morlaix
 
-*Itinéraire vélo Plouigneau-Morlaix alternatif à la :line-link{line=6}*
+*Itinéraire vélo Plouigneau-Morlaix alternatif à la :line-link{line=6}*\
 *Itinéraire familial, évitant au maximum les routes départementales*
 
 DÉPART Mairie de Plouigneau\
 ARRIVÉE Mairie de Morlaix\
 POINTS D’INTÉRÊT : Musée de Morlaix, Ursulines (liaison EuroVélo1), Cimetière St Nicolas, Hameau Penlan
 
-::banner{type="info"}
-CONDITIONS : Aménagement souhaité Vignes/Bréhat (interdiction transit)
-::
-
 ::banner{type="unsecured"}
+CONDITIONS : Aménagement souhaité Vignes/Bréhat (interdiction transit). 
 Attention, sur ce parcours, il existe quelques passages dangereux
 ::
 
@@ -61,7 +66,7 @@ Une alternative existe en venant de Lanleya, avant de franchir le pont sur la RN
 
 DÉPART Mairie de Morlaix\
 ARRIVÉE Mairie de St Martin des Champs\
-POINTS D’INTÉRÊT : Médiathèque, Gare PEM\
+POINTS D’INTÉRÊT : Médiathèque, Gare PEM
 
 ::banner{type="unsecured"}
 CONDITIONS : 

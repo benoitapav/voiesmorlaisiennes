@@ -25,10 +25,21 @@ Points d'intérêt rencontrés sur cette ligne :
  - mairie de Plougonven
 
 
+
+https://maps.app.goo.gl/pD6qPmWMAihrSKjb7
+
 ## Les tronçons (du Nord au Sud)
 
 [Télécharger le tracé format .gpx, 82ko](https://framateam.org/files/pttkhmnnqtrb7d4zewcuxk7jte/public?h=vZ91KcHhDGIORTek9cRd1J6veMJo2bs9K7TWYhSnB4I)
 
+::content-image
+---
+imageUrl: https://maps.app.goo.gl/8Hc5TnghBayh9xAn9
+caption: La place de Plougonven
+credit: Google France
+streetView: 48.52120225251373, -3.711811782356392
+---
+::
 
 ### De Plouézoch à Ploujean
 
