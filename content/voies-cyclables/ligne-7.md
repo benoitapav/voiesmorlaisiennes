@@ -7,7 +7,6 @@ description: La ligne 7 des Voies Morlaisiennes permettra de relier St Martin de
 cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ---
 
-
 Points d'intérêt rencontrés sur cette ligne :
  - ZA de Kerivin à St Martin des Champs
  - Espace associatif du Binigou
@@ -28,14 +27,6 @@ Points d'intérêt rencontrés sur cette ligne :
 
 *tracé format .gpx, à venir*
 
-::content-image
----
-imageUrl: https://maps.app.goo.gl/jSTx1iCUhpiD8p5w8
-caption: Le Cloitre St Thégonnec : musée du Loup
-credit: Google France
-streetView: 48.47989326279208, -3.796429644419241
----
-::
 
 
 ### De St Martin des Champs (ZC de Kerivin) à Morlaix

@@ -7,7 +7,6 @@ description: La ligne 6 des Voies Morlaisiennes permettra de relier Plouigneau �
 cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 ---
 
-
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Plouigneau
  - hameau de la Chapelle du Mur
@@ -25,16 +24,8 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (de l'Est à l'Ouest)
 
-*tracé format .gpx, à venir*
+[Télécharger le tracé format .gpx, 58ko](https://framateam.org/files/uxekng33xjrh5dkn77dxaf483y/public?h=LYAMPs2NlPcjGGJTURj00D7bLKeT23X1_2ocDcTl8fY)
 
-::content-image
----
-imageUrl: https://maps.app.goo.gl/eC3TC5xGEsdeXdxX9
-caption: Ste Sève : mairie et église
-credit: Google France
-streetView: 48.55784222838759, -3.8756727406262304
----
-::
 
 
 ### de Plouigneau à Morlaix
