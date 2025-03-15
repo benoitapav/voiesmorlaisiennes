@@ -131,6 +131,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
+        "id": "Bas rue Gambetta sens Morlaix vers St Martin-commun",
         "name": "Bas rue Gambetta sens Morlaix vers St Martin",
         "status": "planned",
         "type": "aucun",
@@ -238,6 +239,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
+        "id": "Place des Otages demi-tour sous viaduc-commun",
         "name": "Place des Otages demi-tour sous viaduc",
         "status": "planned",
         "type": "aucun",
