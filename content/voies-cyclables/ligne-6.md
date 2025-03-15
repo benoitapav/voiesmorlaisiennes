@@ -68,6 +68,6 @@ POINTS D’INTÉRÊT SUPPLEMENTAIRES : Roudour direct, Binigou maison du sport e
 
 DÉPART Ste Sève parking salle des fêtes\
 ARRIVÉE Mairie de Pleyber Christ\
-DIFFICULTÉS : pas de difficulté, circuit sur routes secondaires peu fréquentées
+Pas de difficulté, circuit sur routes secondaires peu fréquentées
 
 *Itinéraire testé APAV le 24 février 2018*

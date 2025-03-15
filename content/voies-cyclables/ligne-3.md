@@ -39,12 +39,12 @@ ARRIVÉE : Ploujean place Scornet via Le Dourduff en Mer
 Passage dans les bois, prévoir vélo tout chemin, le long de la rivière du Dourduff. La piste mériterait d'être améliorée, il s'agit de l'EuroVélo4.
 ::
 
-Itinéraire testé APAV le 16 juin 2018
+*Itinéraire testé APAV le 16 juin 2018*
 
 #### Variante Ploujean-RD76 avant Le Dourduff en Mer
 
 *Itinéraire alternatif vélo Ploujean-Le Dourduff en Mer*
-*
+
 DÉPART : RD76 avant le Dourduff en mer\
 ARRIVÉE : Ploujean place Scornet
 
@@ -68,7 +68,7 @@ CONDITIONS :
  - aménagement du rond-point de la Vierge Noire à la hollandaise
 ::
 
-Itinéraire testé APAV le 16 juin 2018 puis le 2 novembre 2024
+*Itinéraire testé APAV le 16 juin 2018 puis le 2 novembre 2024*
 
 #### Variante Vierge Noire-Rue de Ploujean
 
@@ -82,7 +82,7 @@ POINTS D’INTÉRÊT :
 CONDITIONS : Aménagement à améliorer pour l'insertion sur le rond-point de la Vierge Noire
 ::
 
-Itinéraire testé APAV le 2 novembre 2024
+*Itinéraire testé APAV le 2 novembre 2024*
 
 
 ### Variante de traversée de Morlaix de la Vierge Noire aux Jardins solidaires

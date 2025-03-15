@@ -111,6 +111,86 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Couvent des Jacobins à Morlaix",
+        "line": 7,
+        "imgUrl": "https://www.communes.com/images/thumbs/bretagne/finistere/morlaix_29600/730x328/morlaix_311100.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8248270899649413,
+          48.57683381929485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Ecole du Poan Ben",
+        "line": 7,
+        "imgUrl": "https://media.letelegramme.fr/api/v1/images/view/63ddefdc3a5428311968f411/web_golden_xxl/63ddefdc3a5428311968f411.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8225859218215135,
+          48.57624493869267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Lycée ND du Mûr et Porsmeur",
+        "line": 7,
+        "imgUrl": "https://www.ecmorlaix.fr/uploads/2018/09/nddm-slide07.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.834879252560711,
+          48.575561686042334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Ecole du Vélery",
+        "line": 7,
+        "imgUrl": "https://s1.qwant.com/thumbr/474x266/a/5/172b6da8778ff084cfdf667991b516682e5b6a7d021c8f30c6341946328382/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP._OZC8MTqEQ_E1x9ANEdKZgHaEK%26pid%3DApi&q=0&b=1&p=0&a=0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8212849482086426,
+          48.56624882994666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "name": "Ecoles Martin Luther King",
+        "line": 7,
+        "imgUrl": "https://media.letelegramme.fr/api/v1/images/view/63e52f93cbf9cf22ca18b9c0/web_golden_xxl/63e52f93cbf9cf22ca18b9c0.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7903260588468015,
+          48.5333807911143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
         "name": "Centre hospitalier des pays de Morlaix",
         "line": 7,
         "imgUrl": "https://www.francebleu.fr/s3/cruiser-production/2020/06/e2cef22b-db9b-4a33-9b74-63e20fb08da4/1200x680_nicolas_creach.webp"

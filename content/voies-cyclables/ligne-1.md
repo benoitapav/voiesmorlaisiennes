@@ -52,7 +52,7 @@ streetView: 48.641148, -3.887609
 ::banner{type="info"}
 
 Des vélorutions dites "des bords de la rivière" ont lieu depuis mai 2022 pour demander la réalisation d'aménagements.\
-La 30e vélorution aura lieu le samedi 26 mars 2025.
+La 30e vélorution aura lieu le samedi 29 mars 2025.
 ::
 
 
@@ -96,7 +96,7 @@ ARRIVÉE : Mairie de Pleyber Christ\
 POINTS D’INTÉRÊT : Mosquée, manoir de Lesquiffiou
 
 ::banner{type="unsecured"}
-DIFFICULTÉS : le long de la RD769 de Pont-Pol à Morlaix, pas d’aménagements cyclistes sur une route assez fréquentée (vitesse toutefois régulièrement limitée à 70 km/h voire 50 km/h)
+DIFFICULTÉS : le long de la RD769 de Pont-Pol à Morlaix, pas d’aménagements cyclistes sur une route assez fréquentée (vitesse toutefois régulièrement limitée à 70 km/h voire 50 km/h).
 La route "de Lesquiffiou" (C4) est belle mais beaucoup trop fréquentée par des véhicules motorisés ; la RD712 (via Kerangoff / Le Cun) est ainsi plus recommandable, étonnamment, avec une grosse difficulté de traversée du Boulevard de Réo (au Pontro) et un axe D785 non aménagé en entrée de Pleyber Christ.
 ::
 

@@ -49,8 +49,12 @@ POINTS D’INTÉRÊT : Ty Dour, école Jean Jaurès, piscine, ZC la Boissière/L
 CONDITIONS :
 - mise en DSC de la rue de Ploujean
 - interdiction de la rue de Ploujean aux véhicules motorisés sauf riverains et livraisons (de la Grande Venelle à la Cité des Marronniers)\
-AVANTAGE : éviter l'utilisation de la rue de Ploujean comme raccourci, ce qui amène des survitesses
 ::
+
+::banner{type="modified"}
+Un avantage à mettre en avant est que cela peut éviter l'utilisation de la rue de Ploujean comme raccourci pour les motorisés, ce qui amène des survitesses.
+::
+
 
 ::banner{type="unsecured"}
 Le tronçon entre le tunnel sous Wurselen et la rue Gustave Courbet est à améliorer, en particulier l'insertion rue Courbet
@@ -74,7 +78,7 @@ CONDITIONS : Accès à sécuriser insertion avenue de Wurselen + difficulté sen
 #### Variante 2 Boissière Champ Le Goff
 
 DÉPART Morlaix Rond-point Charles de Gaulle\
-ARRIVÉE Morlaix Rond-point Boissière/Prigent/Wurselen\
+ARRIVÉE Morlaix Rond-point Boissière/Prigent/Wurselen
 
 ::banner{type="info"}
 L'intérêt de cette variante est de pouvoir emprunter les très tranquilles rue de la Boissière et Champ Le Goff
@@ -88,8 +92,11 @@ CONDITIONS : mise en DSC de la rue Champ Le Goff + sécurisation débouché Le G
 
 DÉPART Square Weygand\
 ARRIVÉE Rond-point Jean-Michel Caradec\
-POINTS D’INTÉRÊT : CAF, Collège Mendès-France, école Piaget, zone commerciale La Boissière/Leclerc, piscine La Boissière\
-Alternative possible : parking St Nicolas + rue de Ploujean, pour éviter en partie basse la rampe St Nicolas\
+POINTS D’INTÉRÊT : CAF, Collège Mendès-France, école Piaget, zone commerciale La Boissière/Leclerc, piscine La Boissière
+
+::banner{type="modified"}
+Alternative possible : parking St Nicolas + rue de Ploujean, pour éviter en partie basse la rampe St Nicolas
+::
 
 ::banner{type="unsecured"}
 CONDITIONS : Aménagement du rond-point Wurselen/Sérusier et du rond-point Jean-Michel Caradec
@@ -97,13 +104,14 @@ CONDITIONS : Aménagement du rond-point Wurselen/Sérusier et du rond-point Jean
 
 #### Variante 4 Germain Martin
 
-*Trajet alternatif retour (sens Boissière-Mairie) à la Variante 3*\
+*Trajet alternatif retour (sens Boissière-Mairie) à la Variante 3*
+
 AVANTAGES : possibilité de rallier la :line-link{line=5} pour retourner en centre-ville
 
 
 ### De Morlaix à St Thégonnec Loc Eguiner
 
-*Itinéraire direct par la RD712*\
+*Itinéraire direct par la RD712*
 
 DÉPART Morlaix Mairie\
 ARRIVÉE St Thégonnec-Loc-Eguiner Mairie\
