@@ -23,7 +23,7 @@ Points d'intérêt rencontrés sur cette ligne :
  - mairie du Cloitre St Thégonnec
 
 
-## Les tronçons (décrits de St Martin des Champs au Cloître St Thégonnec)
+## Les tronçons (décrits dans le sens St Martin des Champs -> Le Cloître St Thégonnec)
 
 [Télécharger le tracé format .gpx, 59ko](https://framateam.org/files/u9ukc8nqgjrypjxg4xn18dp3ie/public?h=hxOSr3OwhxKkiHP-ySpm1gIJWiQ8K8zQUf5n0Pcp2fk)
 
@@ -38,26 +38,26 @@ DÉPART ZC de Kerivin à St Martin des Champs\
 ARRIVÉE Mairie de Morlaix\
 POINTS D’INTÉRÊT : Médiathèque les Ailes du Temps, École Gambetta, Ecole-Collège-Lycée ND de Lourdes/St Augustin/ND du Mur/Porsmeur, Foyer Jean Moulin, Espace associatif Binigou, ZA de Kerivin\
 Court-circuite la rue Gambetta\
-Accès direct par la rue du Roscoat à la zone du Launay, via la rue du Tunès\
+Accès direct par la rue du Roscoat à la zone du Launay, via la rue du Tunès
 
 
 ::banner{type="unsecured"}
 Quelques propositions et remarques :\
-- le gabarit (large) de la rue Joseph Le Brix (St Martin des Champs) devrait permettre un marquage de pistes cyclables montante et descendante, et pas seulement un DSC.
-- l'insertion rue Antoine de St Exupéry est à créer. 
-- rond-point de la rue du Tunès : matérialiser la voie vélo pour insertion dans la voie vers la Rue François Villon ?
-- rond-point de Feunteun Izella : franchissement difficile en raison notamment de son dévers.
-- insertion Rue St Augustin sur Rampe st Augustin par un stop ayant une visibilité limitée sur la droite : marquage au sol du cheminement vélo pour s’insérer dans la rue de Poulfanc.  
-- passage du rond-point rue de Poulfanc - rue Gambetta en dévers, délicat à négocier. 
-- insertion dans le haut de la rue Longue à aménager et à marquer. 
-- rue Longue à mettre en DSC. Déclivité importante, rue étroite.  Revêtement de la chaussée : lacunaire.  
-- insertion Bas de la rue Longue dans Rue Gambetta à aménager et à marquer (marquage traversant)
+-* le gabarit (large) de la rue Joseph Le Brix (St Martin des Champs) devrait permettre un marquage de pistes cyclables montante et descendante, et pas seulement un DSC.
+-* l'insertion rue Antoine de St Exupéry est à créer. 
+-* rond-point de la rue du Tunès : matérialiser la voie vélo pour insertion dans la voie vers la Rue François Villon ?
+-* rond-point de Feunteun Izella : franchissement difficile en raison notamment de son dévers.
+-* insertion Rue St Augustin sur Rampe st Augustin par un stop ayant une visibilité limitée sur la droite : marquage au sol du cheminement vélo pour s’insérer dans la rue de Poulfanc.  
+-* passage du rond-point rue de Poulfanc - rue Gambetta en dévers, délicat à négocier. 
+-* insertion dans le haut de la rue Longue à aménager et à marquer. 
+-* rue Longue à mettre en DSC. Déclivité importante, rue étroite.  Revêtement de la chaussée : lacunaire.  
+-* insertion Bas de la rue Longue dans Rue Gambetta à aménager et à marquer (marquage traversant)
 ::
 
 ::banner{type="modified"}
 Suggestion en attendant l’aménagement du rond point de Kerivin :
--  Pour sortir du parking du centre commercial de Kerivin : doubler les passages piétons placés sur la D 712 B et la route de Ste Sève, d’un passage traversant vélo, avec le logo vélo. A franchir à pied suivant le code de la route.  
-- Améliorer l’insertion dans la rue Jean Mermoz, à mettre en double sens cyclable (zone 30).
+--  Pour sortir du parking du centre commercial de Kerivin : doubler les passages piétons placés sur la D 712 B et la route de Ste Sève, d’un passage traversant vélo, avec le logo vélo. A franchir à pied suivant le code de la route.  
+-- Améliorer l’insertion dans la rue Jean Mermoz, à mettre en double sens cyclable (zone 30).
 :: 
 
 
@@ -73,9 +73,9 @@ POINTS D’INTÉRÊT : ZC St Fiacre, Gendarmerie, Musée des Jacobins + liaison 
 
 ::banner{type="unsecured"}
 DIFFICULTÉS : 
-- pente importante pour rallier le plateau St Fiacre depuis la route du Men Guen
-- traversée de la rue du Trégor délicate pour poursuivre la piste cyclable sur la rue d’Arvor
-- piste cyclable interrompue au bout de la rue d'Arvor
+-- pente importante pour rallier le plateau St Fiacre depuis la route du Men Guen
+-- traversée de la rue du Trégor délicate pour poursuivre la piste cyclable sur la rue d’Arvor
+-- piste cyclable interrompue au bout de la rue d'Arvor
 ::
 
 [Voir le dossier d'expertise d'usage sur la liaison Plourin-Morlaix](https://framateam.org/files/dgac1dxeh3rtxki5ncdk9pd7ro/public?h=OCfmdcPSKD4_HaqHrK1eKDKMmPc71oXofFC3pgk82Go){:target="_blank"}
@@ -100,7 +100,7 @@ ATTENTION, traversée du Boulevard de Réo entre Kersaint Gilly et la piscine, p
 
 #### Variante de liaison de l'hôpital à l'Espace aquatique St Fiacre
 
-Passage par rue St Fiacre et rue général Borgnis-Desbordes\
+Passage par rue St Fiacre et rue général Borgnis-Desbordes
 
 ::banner{type="info"}
 CONDITIONS : traversée bd de Réo par piste cyclable à améliorer + Aménagement en DSC nécessaire rue St Fiacre sur 80m
@@ -121,7 +121,7 @@ Ce rond-point pourrait idéalement être transformé en rond-point "à la hollan
 Itinéraire vélo St Fiacre-Lycée Corbière (Extension/complément)\
 Réalisé à 50 %, avec aménagements existants à améliorer toutefois\
 DÉPART Plourin St Fiacre/rue de la Hautière\
-ARRIVÉE Lycée Tristan Corbière
+ARRIVÉE Près du lycée Tristan Corbière, face au parc Auregan
 
 
 ### De Plourin-lès-Morlaix au Cloitre St Thégonnec
