@@ -334,7 +334,7 @@
       "name": "Quai de Tréguier sud",
       "status": "done",
       "type": "chaucidou",
-      "quality": "satisfactory",
+      "quality": "unsatisfactory",
       "link": "/voie-morlaisienne-2"
       },
       "geometry": {
@@ -352,7 +352,7 @@
       "name": "Liaison rond-point de Gaulle - bas quai de Tréguier sens SN",
       "status": "done",
       "type": "bandes-cyclables",
-      "quality": "satisfactory",
+      "quality": "unsatisfactory",
       "link": "/voie-morlaisienne-2"
       },
       "geometry": {
@@ -388,7 +388,7 @@
       "name": "Du 7 place Cornic au 12 place de Gaulle",
       "status": "done",
       "type": "chaucidou",
-      "quality": "satisfactory",
+      "quality": "unsatisfactory",
       "link": "/voie-morlaisienne-2"
       },
       "geometry": {
