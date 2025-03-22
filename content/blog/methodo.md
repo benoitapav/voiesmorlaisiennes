@@ -4,10 +4,21 @@ description: Réponses aux questions fréquentes sur les données et la méthodo
 imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
 ---
 
-Ce site a été cloné et adapté du site Cyclopolis de l'association lyonnaise La ville à vélo.
+Ce site a été cloné et adapté du site Cyclopolis de l'association lyonnaise La Ville à Vélo.
 Ci-dessous, les réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis. 
 Une page spécifique sur la méthodologie utilisée par l'Apav sera réalisée.
 
+En attendant, il est important de comprendre que le réseau ici présenté comprend des routes et rues à ce jour assez peu cyclables, bien que présentant un intérêt particulier.
+L'association se basera sur ces propositions, avec des variantes possibles, pour demander que les itinéraires soient aménagés et sécurisés quand il le faut, ce qui représente une majorité des kilomètres.
+Le travail a été réalisé en parallèle du site uMap de l'Apav, qui réalise un suivi depuis des années des infrastructures cyclables et marchables.
+
+Retrouvez les deux sites uMap de l'Apav ci-dessous :
+
+[Le réseau vélo idéal du pays de Morlaix - devenu itiVéloMorlaix](http://u.osmfr.org/m/1132697/)
+[L'état des lieux piéton et vélo pays de Morlaix](http://u.osmfr.org/m/112709/)
+
+
+La méthodologie de Cyclopolis:
 
 *Pourquoi ce tronçon est marqué « terminé » alors qu’il n’y a eu aucuns travaux ?  
 Pourquoi ma rue est considérée comme « prévue » alors qu’il y a déjà une piste ?  
