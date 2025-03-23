@@ -21,6 +21,47 @@
       "type": "Feature",
       "properties": {
         "line": 5,
+        "name": "Place de la Mairie",
+        "status": "planned",
+        "type": "aucun",
+        "quality": "unsatisfactory",
+        "link": "/voie-morlaisienne-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.899490529148551,48.603800922316054],[-3.8996352547721074,48.603918983928565],
+          [
+            -3.8997623969095514,
+            48.60404420048877
+          ],
+          [
+            -3.8998002690358646,
+            48.604093392624065
+          ],
+          [
+            -3.8998164999461267,
+            48.60413364069885
+          ],
+          [
+            -3.899823261952065,
+            48.604209664544896
+          ],
+          [
+            -3.8998449031669224,
+            48.60432772520198
+          ],
+          [
+            -3.899847608815122,
+            48.60457994484045
+          ]
+          ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
         "name": "De la Pennelé à Taulé à Pennelé par D769 et rue Robert Jourdren",
         "status": "planned",
         "type": "aucun",
