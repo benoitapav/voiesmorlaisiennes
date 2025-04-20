@@ -7,7 +7,7 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-8 w-auto sm:h-12"
-              src="https://kdrive.infomaniak.com/app/share/497538/ba6efdc5-a99f-4ca0-a710-73a1f653d3f6"
+              src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
               :alt="`logo ${getAssoName()}`"
             >
             <img
