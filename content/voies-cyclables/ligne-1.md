@@ -4,7 +4,7 @@ line: 1
 from: Carantec
 to: Pleyber-Christ
 description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et Locquénolé à Morlaix d'une part, et d'autre part Morlaix à Pleyber-Christ, en passant par les bords de la rivière / D769 et la "route de Lesquiffiou".
-cover: https://kdrive.infomaniak.com/app/share/497538/0056b1f7-9e7e-4d5d-a0c6-683a3ec93945
+cover: images/ligne-1.jpg
 ---
 
 
