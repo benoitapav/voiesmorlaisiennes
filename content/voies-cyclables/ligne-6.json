@@ -178,7 +178,7 @@
       "properties": {
         "line": 6,
         "name": "Route de Paris du Pouliet au rond-point de la Libération",
-        "status": "wip",
+        "status": "done",
         "type": "chaucidou",
         "quality": "satisfactory",
         "link": "/voie-morlaisienne-6"
@@ -195,7 +195,7 @@
       "properties": {
         "line": 6,
         "name": "Bas route de Paris Zone de Rencontre",
-        "status": "wip",
+        "status": "done",
         "type": "zone-de-rencontre",
         "quality": "satisfactory",
         "link": "/voie-morlaisienne-6"
