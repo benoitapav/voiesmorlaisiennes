@@ -18,7 +18,24 @@
           [-3.708269,48.570002,147],[-3.70798,48.56998,148],[-3.707951,48.569976,148],[-3.707915,48.569971,148],[-3.707879,48.56997,148],[-3.707854,48.569966,148],[-3.707831,48.569961,148],[-3.70781,48.56996,148],[-3.70709,48.56988,149],[-3.70699,48.56987,150],[-3.70522,48.56969,154],[-3.70447,48.56961,155],[-3.70343,48.5695,158],[-3.7028,48.56945,160],[-3.70268,48.56944,160],[-3.70265,48.56927,161],[-3.70258,48.56919,162],[-3.70241,48.56898,162],[-3.70205,48.56844,162],[-3.70198,48.56835,163],[-3.70196,48.56824,163],[-3.70196,48.56805,162],[-3.70194,48.56799,162],[-3.70192,48.56787,162],[-3.7019,48.56767,162]
         ]
       }
-    }, {
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Ecluse axiale route de Paris",
+        "description": "Ecluse axiale route de Paris avec modification trajectoire cyclable",
+        "danger": "L'écluse axiale, souhaitée par l'APAV, a été installée sans conserver la trajectoire linéaire des cyclistes, ce qui rend son passage impossible aux cargos et dangereuse pour tous.tes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81133309835991,
+          48.57614628238511
+        ]
+      }
+    },
+    {
       "type": "Feature",
       "properties": {
         "type": "perspective",
