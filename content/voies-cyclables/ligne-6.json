@@ -197,7 +197,7 @@
         "name": "Bas route de Paris Zone de Rencontre",
         "status": "done",
         "type": "zone-de-rencontre",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-morlaisienne-6"
       },
       "geometry": {
