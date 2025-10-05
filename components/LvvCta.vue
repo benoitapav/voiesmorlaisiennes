@@ -12,7 +12,7 @@
         </div>
         <div class="sm:flex justify-center lg:justify-end mt-12 lg:mt-0 lg:ml-8 lg:flex-1">
           <button type="button" class="mt-3 w-full flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-lvv-pink transition duration-300 transform hover:scale-105 sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0">
-            <a href="https://www.helloasso.com/associations/a-pied-a-velo-en-pays-de-morlaix/adhesions/adhesion-2024-2025" target="_blank">Adhérer</a>
+            <a href="https://www.helloasso.com/associations/a-pied-a-velo-en-pays-de-morlaix/adhesions/adhesion-2025-2026" target="_blank">Adhérer</a>
           </button>
           <button type="button" class="mt-3 w-full flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-lvv-pink bg-white transition duration-300 transform hover:scale-105 sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0">
             <a href="https://apiedavelo.bzh/" target="_blank">En savoir +</a>
