@@ -12,7 +12,7 @@
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://framateam.org/files/b3qdedfut7dwixrp69pzyk87gc/public?h=u59bTKzoChquyRHGlclWir2VhtXF3-qot9H-gX75grI"
+              src="https://framateam.org/files/m31tsyoojpggtkwpc8n1adnyxo/public?h=p9w7kqQD47iUwpOvhk7HIrCs37IP3vnCSrU0kAdFleM"
               alt="logo itiVéloMorlaix"
             >
           </NuxtLink>
