@@ -28,7 +28,7 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (du Nord au Sud)
 
-[Télécharger le tracé format .gpx, 29ko]([/lignes/ligne-1.gpx](https://raw.githubusercontent.com/benoitapav/voiesmorlaisiennes/refs/heads/main/public/lignes/ligne-1.gpx))
+[Télécharger le tracé format .gpx, 29ko]([/lignes/ligne-1.gpx](/lignes/ligne-1.gpx))
 
 
 
@@ -42,7 +42,7 @@ DIFFICULTÉS : Circuit adapté vélo mais dangereux sur la portion route de la c
 Sur cette section, un aménagement de type piste cyclable peut être envisagé en entrée/sortie de Carantec, ainsi que des portions en CVCB (Chaucidou) en entrée/sortie de Locquénolé et de Taulé/St Julien.
 ::content-image
 ---
-imageUrl: https://raw.githubusercontent.com/benoitapav/voiesmorlaisiennes/refs/heads/main/public/lignes/ligne-1-1.jpg
+imageUrl: /lignes/ligne-1-1.jpg
 caption: Panorama depuis la route de Carantec à Locquénolé (D73, route de Frout Trez)
 credit: Google France
 streetView: 48.641148, -3.887609
