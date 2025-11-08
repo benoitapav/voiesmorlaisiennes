@@ -23,7 +23,7 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (du Nord au Sud)
 
-[Télécharger le tracé format .gpx, 49ko](https://framateam.org/files/831socseo3d9fpbo1ddkc9e35e/public?h=CfsI10125V6ZWlCw7O1qFZphITLlrKkb3hZrgTNx1ck)
+[Télécharger le tracé format .gpx, 49ko](/public/lignes/ligne-2.gpx)
 
 
 ### De Lanmeur à Plouézoch
