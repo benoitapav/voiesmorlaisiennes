@@ -4,7 +4,7 @@ line: 1
 from: Carantec
 to: Pleyber-Christ
 description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et Locquénolé à Morlaix d'une part, et d'autre part Morlaix à Pleyber-Christ, en passant par les bords de la rivière / D769 et la "route de Lesquiffiou".
-cover: /images/ligne-1.jpg
+cover: /lignes/ligne-1-cover.jpg
 ---
 
 
@@ -28,7 +28,7 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (du Nord au Sud)
 
-[Télécharger le tracé format .gpx, 29ko](https://framateam.org/files/bib1qo9j3iyiddztxbsapmjz9o/public?h=oaap9FhrKmR0e9OGunjfxgArk1G3zEZmVJS86vPq4DA)
+[Télécharger le tracé format .gpx, 29ko](/lignes/ligne-1.gpx)
 
 
 
@@ -42,7 +42,7 @@ DIFFICULTÉS : Circuit adapté vélo mais dangereux sur la portion route de la c
 Sur cette section, un aménagement de type piste cyclable peut être envisagé en entrée/sortie de Carantec, ainsi que des portions en CVCB (Chaucidou) en entrée/sortie de Locquénolé et de Taulé/St Julien.
 ::content-image
 ---
-imageUrl: https://framateam.org/files/kyfw34tjmf8ctkarmkfco6n9ko/public?h=891I09GEzleef4xPY3T2dxot18-ru4OtlAzPTf2P6xM
+imageUrl: /public/lignes/ligne-1-1.jpg
 caption: Panorama depuis la route de Carantec à Locquénolé (D73, route de Frout Trez)
 credit: Google France
 streetView: 48.641148, -3.887609
