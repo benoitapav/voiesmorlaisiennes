@@ -28,7 +28,7 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (du Nord au Sud)
 
-[Télécharger le tracé format .gpx, 29ko]([/lignes/ligne-1.gpx](/lignes/ligne-1.gpx))
+[Télécharger le tracé format .gpx, 29ko](/lignes/ligne-1.gpx)
 
 
 
