@@ -7,6 +7,8 @@ description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et 
 cover: /lignes/ligne-1-cover.jpg
 ---
 
+[Télécharger le tracé format .gpx, 29ko](/lignes/ligne-1.gpx)
+
 
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Carantec
@@ -27,9 +29,6 @@ Points d'intérêt rencontrés sur cette ligne :
 
 
 ## Les tronçons (du Nord au Sud)
-
-[Télécharger le tracé format .gpx, 29ko](/public/lignes/ligne-1.gpx)
-
 
 
 ### Carantec à Locquénolé

@@ -7,6 +7,9 @@ description: La ligne 2 des Voies Morlaisiennes permettra de relier Lanmeur et P
 cover: https://framateam.org/files/tqd6ix8gs3nsi8rq83ebkkxt3a/public?h=8E-Pm0uP8m2OR-XBXkw7-f-uf4kgfVQOwMSo8fk-KNY
 ---
 
+[Télécharger le tracé format .gpx, 49ko] (/lignes/ligne-2.gpx)
+
+
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Lanmeur
  - hôpital local de Lanmeur
@@ -22,8 +25,6 @@ Points d'intérêt rencontrés sur cette ligne :
 
 
 ## Les tronçons (du Nord au Sud)
-
-[Télécharger le tracé format .gpx, 49ko] public/lignes/ligne-2.gpx
 
 
 ### De Lanmeur à Plouézoch
