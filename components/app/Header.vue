@@ -12,7 +12,7 @@
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://framateam.org/files/m31tsyoojpggtkwpc8n1adnyxo/public?h=p9w7kqQD47iUwpOvhk7HIrCs37IP3vnCSrU0kAdFleM"
+              src="/public/lignes/Logo-itiVéloMorlaix-header.png"
               alt="logo itiVéloMorlaix"
             >
           </NuxtLink>
@@ -64,12 +64,12 @@
                       Plan officiel
                     </NuxtLink>-->
                     <NuxtLink
-                      to="https://barometre.parlons-velo.fr/2021/carte/#11.65/48.6143/-3.8235"
+                      to="https://www.barometre-velo.fr/2025/palmares/#11.78/48.59988/-3.85555"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB Morlaix</span>
+                      <span>Baromètre vélo 2025 Morlaix</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
