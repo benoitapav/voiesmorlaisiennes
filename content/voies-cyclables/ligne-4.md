@@ -125,14 +125,15 @@ DÉPART Morlaix Mairie\
 ARRIVÉE St Thégonnec-Loc-Eguiner Mairie\
 POINTS D’INTÉRÊT : Théâtre, Bas Hôpital, Bourg de St Thégonnec
 
+::banner{type="unsecured"}
+ATTENTION, passage à pied TRÈS DANGEREUX pour traverser le boulevard de Réo, aménagement impératif
+::
+
+
 ::content-image
 ---
 imageUrl: /lignes/ligne-4-2.jpg
 caption: L'office du tourisme, St Thégonnec Loc Eguiner
 credit: Wikimedia Commons
 ---
-::
-
-::banner{type="unsecured"}
-ATTENTION, passage à pied TRÈS DANGEREUX pour traverser le boulevard de Réo, aménagement impératif
 ::

@@ -93,7 +93,7 @@ CONDITIONS : Piste à mieux baliser + aménagement à transformer au débouché 
 ---
 imageUrl: /lignes/ligne-5-2.jpg
 caption: La maison de retraite St François, St Martin des Champs
-credit: Wikimedia Commons
+credit: Google Maps
 ---
 ::
 
