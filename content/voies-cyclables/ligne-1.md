@@ -7,7 +7,7 @@ description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et 
 cover: /lignes/ligne-1-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 29ko](https://framateam.org/files/bib1qo9j3iyiddztxbsapmjz9o/public?h=oaap9FhrKmR0e9OGunjfxgArk1G3zEZmVJS86vPq4DA)
+[Télécharger le tracé format .gpx, 29ko](/public/lignes/itivélomorlaix_ligne1.gpx)
 
 
 Points d'intérêt rencontrés sur cette ligne :
@@ -97,6 +97,14 @@ POINTS D’INTÉRÊT : Mosquée, manoir de Lesquiffiou
 ::banner{type="unsecured"}
 DIFFICULTÉS : le long de la RD769 de Pont-Pol à Morlaix, pas d’aménagements cyclistes sur une route assez fréquentée (vitesse toutefois régulièrement limitée à 70 km/h voire 50 km/h).
 La route "de Lesquiffiou" (C4) est belle mais beaucoup trop fréquentée par des véhicules motorisés ; la RD712 (via Kerangoff / Le Cun) est ainsi plus recommandable, étonnamment, avec une grosse difficulté de traversée du Boulevard de Réo (au Pontro) et un axe D785 non aménagé en entrée de Pleyber Christ.
+::
+
+::content-image
+---
+imageUrl: /lignes/ligne-1-2.jpg
+caption: Le château de Lesquiffiou et ses dépendances, Pleyber-Christ
+credit: Wikimedia Commons
+---
 ::
 
 ### Liaison de Pleyber-Christ à Plourin-lès-Morlaix
