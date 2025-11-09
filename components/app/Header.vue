@@ -12,7 +12,7 @@
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="/public/lignes/Logo-itiVéloMorlaix-header.png"
+              src=/public/lignes/Logo-itiVéloMorlaix-header.png
               alt="logo itiVéloMorlaix"
             >
           </NuxtLink>
