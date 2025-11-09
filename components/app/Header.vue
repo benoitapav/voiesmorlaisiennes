@@ -7,12 +7,12 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-8 w-auto sm:h-12"
-              src="/lignes/LogoAPAV.png"
+              src="/images/logo-apav.png"
               :alt="`logo ${getAssoName()}`"
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="/lignes/LogoIVM.png"
+              src="/images/logo-ivm.png"
               alt="logo itiVéloMorlaix"
             >
           </NuxtLink>
@@ -124,7 +124,7 @@
             </transition>
           </Popover>
 
-          <!-- Compteurs 
+          <!-- Compteurs
           <Popover v-slot="{ open }" class="relative">
             <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
               <span>Compteurs</span>
@@ -161,7 +161,7 @@
                       @click="close()"
                     >
                       Comparaison voiture/vélo
-                    </NuxtLink> 
+                    </NuxtLink>
                   </div>
                 </div>
               </PopoverPanel>
@@ -200,7 +200,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="/lignes/LogoAPAV.png" :alt="`logo ${getAssoName()}`">
+                <img class="h-8 w-auto" src="/images/logo-apav.png" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
