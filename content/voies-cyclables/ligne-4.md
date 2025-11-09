@@ -4,7 +4,7 @@ line: 4
 from: Lanmeur
 to: St Thégonnec-Loc-Eguiner
 description: La ligne 4 des Voies Morlaisiennes permettra de relier Lanmeur à Morlaix d'une part, avec liaison possible Garlan, et d'autre part Morlaix à St Thégonnec, en passant par la route de Brest, la D712 (non sécurisée) via le vallon du Pont.
-cover: /lignes/ligne-4-cover.JPG
+cover: /lignes/ligne-4-cover.jpg
 ---
 
 [Télécharger le tracé format .gpx, 65ko](lignes/ligne-4.gpx){target="_blank" download="Voie morlaisienne - ligne 4.pdf"}

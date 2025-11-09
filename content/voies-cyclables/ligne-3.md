@@ -4,7 +4,7 @@ line: 3
 from: Plouézoc'h
 to: Plougonven
 description: La ligne 3 des Voies Morlaisiennes permettra de relier Plouézoc'h à Plougonven et à Plourin-lès-Morlaix, en passant par les hauts du Dourduff, Ploujean (via l'Eurovélo 1 ou, en variante, les bords de la rivière / D769), Morlaix centre ou en variante directement la voie verte V7 qui conduit vers Plourin et Plougonven.
-cover: /lignes/ligne-3-cover.JPG
+cover: /lignes/ligne-3-cover.jpg
 ---
 
 [Télécharger le tracé format .gpx, 82ko](lignes/ligne-3.gpx){target="_blank" download="Voie morlaisienne - ligne 3.pdf"}
