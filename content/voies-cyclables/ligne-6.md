@@ -76,6 +76,6 @@ Pas de difficulté, circuit sur routes secondaires peu fréquentées
 ---
 imageUrl: /lignes/ligne-6-1.jpg
 caption: La mairie et la salle Anne de Bretagne, Pleyber-Christ
-credit: Wikimedia Commons
+credit: Google Maps
 ---
 ::
