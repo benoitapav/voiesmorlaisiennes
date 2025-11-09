@@ -4,8 +4,11 @@ line: 6
 from: Plouigneau
 to: Pleyber-Christ
 description: La ligne 6 des Voies Morlaisiennes permettra de relier Plouigneau à Pleyber-Christ, en passant par le centre-ville de Morlaix. Le parcours de Plouigneau à Morlaix est différent d'avec la ligne 5 (emprunt de la D712, pour le moment assez peu fréquentable). Le parcours de Morlaix à Pleyber passe par Ste Sève.
-cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
+cover: /lignes/ligne-6-cover.jpg
 ---
+
+[Télécharger le tracé format .gpx, 58ko](https://framateam.org/files/uxekng33xjrh5dkn77dxaf483y/public?h=LYAMPs2NlPcjGGJTURj00D7bLKeT23X1_2ocDcTl8fY)
+
 
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Plouigneau
@@ -23,9 +26,6 @@ Points d'intérêt rencontrés sur cette ligne :
 
 
 ## Les tronçons (de l'Est à l'Ouest)
-
-[Télécharger le tracé format .gpx, 58ko](https://framateam.org/files/uxekng33xjrh5dkn77dxaf483y/public?h=LYAMPs2NlPcjGGJTURj00D7bLKeT23X1_2ocDcTl8fY)
-
 
 
 ### de Plouigneau à Morlaix
@@ -71,3 +71,11 @@ ARRIVÉE Mairie de Pleyber Christ\
 Pas de difficulté, circuit sur routes secondaires peu fréquentées
 
 *Itinéraire testé APAV le 24 février 2018*
+
+::content-image
+---
+imageUrl: /lignes/ligne-6-cover.jpg
+caption: La mairie et la salle Anne de Bretagne, Pleyber-Christ
+credit: Wikimedia Commons
+---
+::

@@ -3,9 +3,12 @@ name: Voie Morlaisienne 5
 line: 5
 from: Plouigneau/Lanleya
 to: Taulé
-description: La ligne 5 des Voies Morlaisiennes permettra de relier Plouigneau (et Lanleya) à Taulé et inversement, en passant par le centre-ville de Morlaix. A noter, l'utilisation de la voie verte (ex-voie ferrée) entre la gare et la maison de retraite St François.
-cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
+description: La ligne 5 des Voies Morlaisiennes permettra de relier Plouigneau (et Lanleya) à Taulé et Henvic et inversement, en passant par le centre-ville de Morlaix. A noter, l'utilisation de la voie verte (ex-voie ferrée) entre la gare et la maison de retraite St François.
+cover: /lignes/ligne-5-cover.jpg
 ---
+
+[Télécharger le tracé format .gpx, 51ko](https://framateam.org/files/7kxxp1fp83na3xp3o1xsfrfuww/public?h=LRzGtxFDh_IVa4nyatxedGPRsCwBkyAZ5qyV_YNvnpo)
+
 
 
 Points d'intérêt rencontrés sur cette ligne :
@@ -22,9 +25,6 @@ Points d'intérêt rencontrés sur cette ligne :
 
 
 ## Les tronçons (d'Est en Ouest)
-
-[Télécharger le tracé format .gpx, 51ko](https://framateam.org/files/7kxxp1fp83na3xp3o1xsfrfuww/public?h=LRzGtxFDh_IVa4nyatxedGPRsCwBkyAZ5qyV_YNvnpo)
-
 
 
 ### De Lanleya à la jonction vers Plouigneau
@@ -43,6 +43,14 @@ ARRIVÉE Coude sur :line-link{line=5} Plouigneau
 DÉPART Mairie de Plouigneau\
 ARRIVÉE Mairie de Morlaix\
 POINTS D’INTÉRÊT : Musée de Morlaix, Ursulines (liaison EuroVélo1), Cimetière St Nicolas, Hameau Penlan
+
+::content-image
+---
+imageUrl: /lignes/ligne-5-1.jpg
+caption: La mairie de Plouigneau
+credit: Wikimedia Commons
+---
+::
 
 ::banner{type="unsecured"}
 CONDITIONS : Aménagement souhaité Vignes/Bréhat (interdiction transit). 
@@ -81,6 +89,14 @@ POINTS D’INTÉRÊT : Maison de retraite St François, Gare PEM
 CONDITIONS : Piste à mieux baliser + aménagement à transformer au débouché route C6/D769
 ::
 
+::content-image
+---
+imageUrl: /lignes/ligne-5-2.jpg
+caption: La maison de retraite St François, St Martin des Champs
+credit: Wikimedia Commons
+---
+::
+
 
 ### De la maison de retraite St François à la Pennelé
 
@@ -92,3 +108,18 @@ Itinéraire 100% routier sur RD73, commun à la :line-link{line=1}
 Circuit 100% routier départemental\
 DÉPART Corniche au débouché de la Pennelé\
 ARRIVÉE Mairie de Taulé
+
+::content-image
+---
+imageUrl: /lignes/ligne-5-3.jpg
+caption: La mairie de Taulé
+credit: Wikimedia Commons
+---
+::
+
+
+### De Taulé à Henvic par Goachénével
+
+Circuit 100% routier\
+DÉPART Mairie de Taulé\
+ARRIVÉE Mairie de Henvic

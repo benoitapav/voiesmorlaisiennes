@@ -4,8 +4,11 @@ line: 4
 from: Lanmeur
 to: St Thégonnec-Loc-Eguiner
 description: La ligne 4 des Voies Morlaisiennes permettra de relier Lanmeur à Morlaix d'une part, avec liaison possible Garlan, et d'autre part Morlaix à St Thégonnec, en passant par la route de Brest, la D712 (non sécurisée) via le vallon du Pont.
-cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
+cover: /lignes/ligne-4-cover.JPG
 ---
+
+[Télécharger le tracé format .gpx, 65ko](https://framateam.org/files/rzh8dzrjrjb9f87jt5t9yxhsxc/public?h=kJCrbEmSOAMtmaB6Uee7g75NYj3iXCByPFPQ_CGkJe8)
+
 
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Lanmeur
@@ -26,14 +29,19 @@ Points d'intérêt rencontrés sur cette ligne :
 
 ## Les tronçons (d'Est en Ouest)
 
-[Télécharger le tracé format .gpx, 65ko](https://framateam.org/files/rzh8dzrjrjb9f87jt5t9yxhsxc/public?h=kJCrbEmSOAMtmaB6Uee7g75NYj3iXCByPFPQ_CGkJe8)
-
-
 
 ### De Lanmeur à la jonction Morlaix/Bois de la Roche
 
 DÉPART Mairie de Lanmeur\
 ARRIVÉE Jonction Garlan via Bois de la Roche
+
+::content-image
+---
+imageUrl: /lignes/ligne-4-1.jpg
+caption: La place centrale, Lanmeur
+credit: Wikimedia Commons
+---
+::
 
 ::banner{type="unsecured"}
 DIFFICULTÉS : la portion sur la D786 est très compliquée, car la route est très fréquentée et la circulation est rapide -> à aménager.
@@ -116,6 +124,14 @@ AVANTAGES : possibilité de rallier la :line-link{line=5} pour retourner en cent
 DÉPART Morlaix Mairie\
 ARRIVÉE St Thégonnec-Loc-Eguiner Mairie\
 POINTS D’INTÉRÊT : Théâtre, Bas Hôpital, Bourg de St Thégonnec
+
+::content-image
+---
+imageUrl: /lignes/ligne-4-2.jpg
+caption: L'office du tourisme, St Thégonnec Loc Eguiner
+credit: Wikimedia Commons
+---
+::
 
 ::banner{type="unsecured"}
 ATTENTION, passage à pied TRÈS DANGEREUX pour traverser le boulevard de Réo, aménagement impératif

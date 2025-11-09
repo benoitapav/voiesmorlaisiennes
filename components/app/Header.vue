@@ -7,7 +7,7 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-8 w-auto sm:h-12"
-              src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no"
+              src="/lignes/LogoAPAV.png"
               :alt="`logo ${getAssoName()}`"
             >
             <img
@@ -200,7 +200,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="https://framateam.org/files/fp1nknd5rid3zqwi5dtcs6oipe/public?h=1f9zK3xJiZb5qHUf5CgrBmhbZ01v5akn0H9f7xXj4no" :alt="`logo ${getAssoName()}`">
+                <img class="h-8 w-auto" src="/lignes/LogoAPAV.png" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
