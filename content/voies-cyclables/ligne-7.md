@@ -7,7 +7,7 @@ description: La ligne 7 des Voies Morlaisiennes permettra de relier St Martin de
 cover: /lignes/ligne-7-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 59ko](https://framateam.org/files/u9ukc8nqgjrypjxg4xn18dp3ie/public?h=hxOSr3OwhxKkiHP-ySpm1gIJWiQ8K8zQUf5n0Pcp2fk)
+[Télécharger le tracé format .gpx, 59ko](lignes/ligne-7.gpx){target="_blank" download="Voie morlaisienne - ligne 7.pdf"}
 
 
 Points d'intérêt rencontrés sur cette ligne :
@@ -44,21 +44,21 @@ Accès direct par la rue du Roscoat à la zone du Launay, via la rue du Tunès
 ::banner{type="unsecured"}
 Quelques propositions et remarques :
 - Le gabarit (large) de la rue Joseph Le Brix (St Martin des Champs) devrait permettre un marquage de pistes cyclables montante et descendante, et pas seulement un DSC.
-- L'insertion rue Antoine de St Exupéry est à créer. 
+- L'insertion rue Antoine de St Exupéry est à créer.
 - Rond-point de la rue du Tunès : matérialiser la voie vélo pour insertion dans la voie vers la Rue François Villon ?
 - Rond-point de Feunteun Izella : franchissement difficile en raison notamment de son dévers.
-- Insertion Rue St Augustin sur Rampe st Augustin par un stop ayant une visibilité limitée sur la droite : marquage au sol du cheminement vélo pour s’insérer dans la rue de Poulfanc.  
-- Passage du rond-point rue de Poulfanc - rue Gambetta en dévers, délicat à négocier. 
-- Insertion dans le haut de la rue Longue à aménager et à marquer. 
-- Rue Longue à mettre en DSC. Déclivité importante, rue étroite.  Revêtement de la chaussée : lacunaire.  
+- Insertion Rue St Augustin sur Rampe st Augustin par un stop ayant une visibilité limitée sur la droite : marquage au sol du cheminement vélo pour s’insérer dans la rue de Poulfanc.
+- Passage du rond-point rue de Poulfanc - rue Gambetta en dévers, délicat à négocier.
+- Insertion dans le haut de la rue Longue à aménager et à marquer.
+- Rue Longue à mettre en DSC. Déclivité importante, rue étroite.  Revêtement de la chaussée : lacunaire.
 - Insertion Bas de la rue Longue dans Rue Gambetta à aménager et à marquer (marquage traversant)
 ::
 
 ::banner{type="modified"}
 Suggestion en attendant l’aménagement du rond point de Kerivin :
-- Pour sortir du parking du centre commercial de Kerivin : doubler les passages piétons placés sur la D 712 B et la route de Ste Sève, d’un passage traversant vélo, avec le logo vélo. A franchir à pied suivant le code de la route.  
+- Pour sortir du parking du centre commercial de Kerivin : doubler les passages piétons placés sur la D 712 B et la route de Ste Sève, d’un passage traversant vélo, avec le logo vélo. A franchir à pied suivant le code de la route.
 - Améliorer l’insertion dans la rue Jean Mermoz, à mettre en double sens cyclable (zone 30).
-:: 
+::
 
 
 *Itinéraire testé APAV en septembre 2024 puis le 30 novembre 2024*
@@ -72,7 +72,7 @@ ARRIVÉE Mairie de Plourin les Morlaix\
 POINTS D’INTÉRÊT : ZC St Fiacre, Gendarmerie, Musée des Jacobins + liaison Lycée Corbière et école du Vélery
 
 ::banner{type="unsecured"}
-DIFFICULTÉS : 
+DIFFICULTÉS :
 - Pente importante pour rallier le plateau St Fiacre depuis la route du Men Guen
 - Traversée de la rue du Trégor délicate pour poursuivre la piste cyclable sur la rue d’Arvor
 - Piste cyclable interrompue au bout de la rue d'Arvor

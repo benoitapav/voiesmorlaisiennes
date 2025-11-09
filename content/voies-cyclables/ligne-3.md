@@ -7,7 +7,7 @@ description: La ligne 3 des Voies Morlaisiennes permettra de relier Plouézoc'h 
 cover: /lignes/ligne-3-cover.JPG
 ---
 
-[Télécharger le tracé format .gpx, 82ko](https://framateam.org/files/pttkhmnnqtrb7d4zewcuxk7jte/public?h=vZ91KcHhDGIORTek9cRd1J6veMJo2bs9K7TWYhSnB4I)
+[Télécharger le tracé format .gpx, 82ko](lignes/ligne-3.gpx){target="_blank" download="Voie morlaisienne - ligne 3.pdf"}
 
 
 Points d'intérêt rencontrés sur cette ligne :

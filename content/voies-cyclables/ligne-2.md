@@ -7,7 +7,7 @@ description: La ligne 2 des Voies Morlaisiennes permettra de relier Lanmeur et P
 cover: /lignes/ligne-2-cover.JPG
 ---
 
-[Télécharger le tracé format .gpx, 49ko](https://framateam.org/files/831socseo3d9fpbo1ddkc9e35e/public?h=CfsI10125V6ZWlCw7O1qFZphITLlrKkb3hZrgTNx1ck)
+[Télécharger le tracé format .gpx, 49ko](lignes/ligne-2.gpx){target="_blank" download="Voie morlaisienne - ligne 2.pdf"}
 
 
 Points d'intérêt rencontrés sur cette ligne :

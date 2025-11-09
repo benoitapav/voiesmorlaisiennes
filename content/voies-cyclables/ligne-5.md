@@ -7,8 +7,7 @@ description: La ligne 5 des Voies Morlaisiennes permettra de relier Plouigneau (
 cover: /lignes/ligne-5-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 51ko](https://framateam.org/files/7kxxp1fp83na3xp3o1xsfrfuww/public?h=LRzGtxFDh_IVa4nyatxedGPRsCwBkyAZ5qyV_YNvnpo)
-
+[Télécharger le tracé format .gpx, 51ko](lignes/ligne-5.gpx){target="_blank" download="Voie morlaisienne - ligne 5.pdf"}
 
 
 Points d'intérêt rencontrés sur cette ligne :
@@ -53,7 +52,7 @@ credit: Wikimedia Commons
 ::
 
 ::banner{type="unsecured"}
-CONDITIONS : Aménagement souhaité Vignes/Bréhat (interdiction transit). 
+CONDITIONS : Aménagement souhaité Vignes/Bréhat (interdiction transit).
 Attention, sur ce parcours, il existe quelques passages dangereux
 ::
 
@@ -69,7 +68,7 @@ ARRIVÉE Mairie de St Martin des Champs\
 POINTS D’INTÉRÊT : Médiathèque, Gare PEM
 
 ::banner{type="unsecured"}
-CONDITIONS : 
+CONDITIONS :
 - Rue Gambetta potentiellement en sens unique avec DSC
 - Possibilité de préconiser la rue Longue en alternative
 ::
