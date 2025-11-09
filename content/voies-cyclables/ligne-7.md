@@ -78,7 +78,7 @@ DIFFICULTÉS :
 - Piste cyclable interrompue au bout de la rue d'Arvor
 ::
 
-[Voir le dossier d'expertise d'usage sur la liaison Plourin-Morlaix](https://framateam.org/files/dgac1dxeh3rtxki5ncdk9pd7ro/public?h=OCfmdcPSKD4_HaqHrK1eKDKMmPc71oXofFC3pgk82Go){:target="_blank"}
+[Voir le dossier d'expertise d'usage sur la liaison Plourin-Morlaix](lignes/ligne-7-2.pdf){target="_blank" download="210123 CR matinée à vélo APAV-Plourin.pdf"}
 
 
 #### Variante de Morlaix Centre à l'Espace aquatique St Fiacre
