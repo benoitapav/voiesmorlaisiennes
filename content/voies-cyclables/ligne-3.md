@@ -4,8 +4,11 @@ line: 3
 from: Plouézoc'h
 to: Plougonven
 description: La ligne 3 des Voies Morlaisiennes permettra de relier Plouézoc'h à Plougonven et à Plourin-lès-Morlaix, en passant par les hauts du Dourduff, Ploujean (via l'Eurovélo 1 ou, en variante, les bords de la rivière / D769), Morlaix centre ou en variante directement la voie verte V7 qui conduit vers Plourin et Plougonven.
-cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
+cover: /lignes/ligne-3-cover.JPG
 ---
+
+[Télécharger le tracé format .gpx, 82ko](https://framateam.org/files/pttkhmnnqtrb7d4zewcuxk7jte/public?h=vZ91KcHhDGIORTek9cRd1J6veMJo2bs9K7TWYhSnB4I)
+
 
 Points d'intérêt rencontrés sur cette ligne :
  - mairie de Plouézoc'h
@@ -26,8 +29,6 @@ Points d'intérêt rencontrés sur cette ligne :
 
 
 ## Les tronçons (du Nord au Sud)
-
-[Télécharger le tracé format .gpx, 82ko](https://framateam.org/files/pttkhmnnqtrb7d4zewcuxk7jte/public?h=vZ91KcHhDGIORTek9cRd1J6veMJo2bs9K7TWYhSnB4I)
 
 
 ### De Plouézoch à Ploujean
@@ -124,6 +125,14 @@ DIFFICULTÉS :
 
 DÉPART : Jonction Plourin/Morlaix Voie EuroVélo1\
 ARRIVÉE : Plougonven Mairie, via Coatélan
+
+::content-image
+---
+imageUrl: /lignes/ligne-3-2.jpg
+caption: L'ancienne gare de Coatélan, Plougonven
+credit: Wikimedia Commons
+---
+::
 
 ::banner{type="unsecured"}
 DIFFICULTÉ : portion de quelques décamètres sur D109 très circulante

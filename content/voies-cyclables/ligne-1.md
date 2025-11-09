@@ -7,7 +7,7 @@ description: La ligne 1 des Voies Morlaisiennes permettra de relier Carantec et 
 cover: /lignes/ligne-1-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 29ko](/public/lignes/itivélomorlaix_ligne1.gpx)
+[Télécharger le tracé format .gpx, 29ko](https://framateam.org/files/bib1qo9j3iyiddztxbsapmjz9o/public?h=oaap9FhrKmR0e9OGunjfxgArk1G3zEZmVJS86vPq4DA)
 
 
 Points d'intérêt rencontrés sur cette ligne :

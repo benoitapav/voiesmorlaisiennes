@@ -7,7 +7,7 @@ description: La ligne 2 des Voies Morlaisiennes permettra de relier Lanmeur et P
 cover: /lignes/ligne-2-cover.JPG
 ---
 
-[Télécharger le tracé format .gpx, 49ko] (https://framateam.org/files/831socseo3d9fpbo1ddkc9e35e/public?h=CfsI10125V6ZWlCw7O1qFZphITLlrKkb3hZrgTNx1ck)
+[Télécharger le tracé format .gpx, 49ko](https://framateam.org/files/831socseo3d9fpbo1ddkc9e35e/public?h=CfsI10125V6ZWlCw7O1qFZphITLlrKkb3hZrgTNx1ck)
 
 
 Points d'intérêt rencontrés sur cette ligne :
@@ -56,6 +56,14 @@ CONDITIONS : Sécurisation de la D76
 DÉPART : Morlaix Mairie\
 ARRIVÉE : Plourin les Morlaix Mairie\
 POINTS D’INTÉRÊT : Musée des Jacobins, Tannerie
+
+::content-image
+---
+imageUrl: /lignes/ligne-2-2.jpg
+caption: Entrée du "quartier du Menguen", Plourin-lès-Morlaix
+credit: Wikimedia Commons
+---
+::
 
 ::banner{type="unsecured"}
 DIFFICULTÉS : il existe un pont noir identifié au croisement Toul Ar Parc / Parc au Duc ; ensuite, la circulation est potentiellement intense jusqu'au MenGuen (rue de la Tannerie + vallon du Stang Coz, jusqu'au carrefour Ker Héol/Chopin).
