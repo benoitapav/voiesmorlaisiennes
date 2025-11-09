@@ -7,7 +7,7 @@ description: La ligne 6 des Voies Morlaisiennes permettra de relier Plouigneau �
 cover: /lignes/ligne-6-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 58ko](lignes/ligne-6.gpx){target="_blank" download="Voie morlaisienne - ligne 6.pdf"}
+[Télécharger le tracé format .gpx, 58ko](lignes/ligne-6.gpx){target="_blank" download="Voie morlaisienne - ligne 6.gpx"}
 
 
 Points d'intérêt rencontrés sur cette ligne :

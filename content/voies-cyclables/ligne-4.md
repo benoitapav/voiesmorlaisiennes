@@ -7,7 +7,7 @@ description: La ligne 4 des Voies Morlaisiennes permettra de relier Lanmeur à M
 cover: /lignes/ligne-4-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 65ko](lignes/ligne-4.gpx){target="_blank" download="Voie morlaisienne - ligne 4.pdf"}
+[Télécharger le tracé format .gpx, 65ko](lignes/ligne-4.gpx){target="_blank" download="Voie morlaisienne - ligne 4.gpx"}
 
 
 Points d'intérêt rencontrés sur cette ligne :

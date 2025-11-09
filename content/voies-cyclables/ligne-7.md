@@ -7,7 +7,7 @@ description: La ligne 7 des Voies Morlaisiennes permettra de relier St Martin de
 cover: /lignes/ligne-7-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 59ko](lignes/ligne-7.gpx){target="_blank" download="Voie morlaisienne - ligne 7.pdf"}
+[Télécharger le tracé format .gpx, 59ko](lignes/ligne-7.gpx){target="_blank" download="Voie morlaisienne - ligne 7.gpx"}
 
 
 Points d'intérêt rencontrés sur cette ligne :

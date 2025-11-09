@@ -7,7 +7,7 @@ description: La ligne 5 des Voies Morlaisiennes permettra de relier Plouigneau (
 cover: /lignes/ligne-5-cover.jpg
 ---
 
-[Télécharger le tracé format .gpx, 51ko](lignes/ligne-5.gpx){target="_blank" download="Voie morlaisienne - ligne 5.pdf"}
+[Télécharger le tracé format .gpx, 51ko](lignes/ligne-5.gpx){target="_blank" download="Voie morlaisienne - ligne 5.gpx"}
 
 
 Points d'intérêt rencontrés sur cette ligne :
