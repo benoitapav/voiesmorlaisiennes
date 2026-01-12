@@ -79,7 +79,7 @@ POINTS D’INTÉRÊT : Manufacture (SEW, cinéma La Salamandre, espace des Scien
 
 #### Morlaix Quai du Léon
 
-::banner{type="wip"}
+::banner{type="info"}
 Cette section, en travaux en 2025 avec une réalisation Morlaix Communauté, a été rouverte à la circulation en octobre 2025. L'Apav a été consultée en juillet 2024 puis janvier 2025 pour les aménagements, qui font la part belle aux déplacements piétons, avec un aménagement de bord de rivière réussi, esthétique et plébiscité. La chaussée, traitée en Zone de Rencontre, reste encore très routière malgré des traitements de surface en certaines sections. Cela ne permet pas encore aux motorisé.es de se rendre compte qu'ils.elles ne sont pas prioritaires, l'aspect linéaire donnant trop de confort. Les passages piétons peints contreviennent au principe de la Zone de Rencontre.
 ::
 
